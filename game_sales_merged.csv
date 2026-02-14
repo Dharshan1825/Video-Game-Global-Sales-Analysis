@@ -1,0 +1,1013 @@
+merged_id,game_title,game_id,vgsales_rank,platform,genre,publisher,release_year,rating,global_sales,plays,wishlist,merge_date
+1,Advance Wars,NULL,2925,gba,strategy,nintendo,2001,3.7,0.7,1900,266000,04-10-2025
+2,Alan Wake,NULL,1444,x360,action,microsoft game studios,2010,3.6,1.35,6200,741000,04-10-2025
+3,Alice: Madness Returns,NULL,3956,x360,adventure,electronic arts,2011,3.5,0.5,2800,636000,04-10-2025
+4,Alice: Madness Returns,NULL,9789,pc,adventure,electronic arts,2011,3.5,0.12,2800,636000,04-10-2025
+5,Alice: Madness Returns,NULL,3352,ps3,adventure,electronic arts,2011,3.5,0.6,2800,636000,04-10-2025
+6,Alpha Protocol,NULL,14053,pc,role-playing,sega,2010,3.3,0.04,987000,182000,04-10-2025
+7,Alpha Protocol,NULL,4495,ps3,role-playing,sega,2010,3.3,0.43,987000,182000,04-10-2025
+8,Alpha Protocol,NULL,4877,x360,role-playing,sega,2010,3.3,0.4,987000,182000,04-10-2025
+9,Animal Crossing,NULL,436,gc,simulation,nintendo,2001,3.9,3.15,3900,317000,04-10-2025
+10,Animal Crossing,NULL,436,gc,simulation,nintendo,2001,3.9,3.15,3900,317000,04-10-2025
+11,Animal Crossing: City Folk,NULL,227,wii,simulation,nintendo,2008,3.4,4.68,3100,129000,04-10-2025
+12,Animal Crossing: New Leaf,NULL,74,3ds,simulation,nintendo,2012,4,9.09,9900,383000,04-10-2025
+13,Ape Escape 3,NULL,9507,ps2,platform,sony computer entertainment,2005,4.3,0.13,874000,231000,04-10-2025
+14,Armored Core,NULL,4736,ps,simulation,sony computer entertainment,1997,3.4,0.41,522000,216000,04-10-2025
+15,Armored Core 2,NULL,2615,ps2,simulation,ubisoft,2000,3.6,0.79,278000,119000,04-10-2025
+16,Armored Core 3,NULL,3025,ps2,simulation,metro 3d,2002,3.7,0.67,297000,142000,04-10-2025
+17,Armored Core 4,NULL,7687,ps3,simulation,505 games,2006,3.7,0.2,252000,162000,04-10-2025
+18,Assassin's Creed,NULL,159,x360,adventure,ubisoft,2007,2.9,5.55,13000,496000,04-10-2025
+19,Assassin's Creed,NULL,219,ps3,adventure,ubisoft,2007,2.9,4.83,13000,496000,04-10-2025
+20,Assassin's Creed,NULL,159,x360,adventure,ubisoft,2007,2.9,5.55,13000,496000,04-10-2025
+21,Assassin's Creed,NULL,219,ps3,adventure,ubisoft,2007,2.9,4.83,13000,496000,04-10-2025
+22,Assassin's Creed,NULL,159,x360,adventure,ubisoft,2007,2.9,5.55,13000,496000,04-10-2025
+23,Assassin's Creed,NULL,219,ps3,adventure,ubisoft,2007,2.9,4.83,13000,496000,04-10-2025
+24,Assassin's Creed II,NULL,157,ps3,action,ubisoft,2009,3.8,5.57,16000,521000,04-10-2025
+25,Assassin's Creed II,NULL,177,x360,action,ubisoft,2009,3.8,5.27,16000,521000,04-10-2025
+26,Assassin's Creed II,NULL,157,ps3,action,ubisoft,2009,3.8,5.57,16000,521000,04-10-2025
+27,Assassin's Creed II,NULL,177,x360,action,ubisoft,2009,3.8,5.27,16000,521000,04-10-2025
+28,Assassin's Creed III,NULL,2204,pc,action,ubisoft,2012,3,0.94,12000,390000,04-10-2025
+29,Assassin's Creed III,NULL,129,ps3,action,ubisoft,2012,3,6.5,12000,390000,04-10-2025
+30,Assassin's Creed III,NULL,5201,wiiu,action,ubisoft,2012,3,0.36,12000,390000,04-10-2025
+31,Assassin's Creed III,NULL,173,x360,action,ubisoft,2012,3,5.3,12000,390000,04-10-2025
+32,Assassin's Creed Syndicate,NULL,7563,pc,action,ubisoft,2015,3,0.2,5600,417000,04-10-2025
+33,Assassin's Creed Syndicate,NULL,410,ps4,action,ubisoft,2015,3,3.28,5600,417000,04-10-2025
+34,Assassin's Creed Syndicate,NULL,1545,xone,action,ubisoft,2015,3,1.28,5600,417000,04-10-2025
+35,Asura's Wrath,NULL,4776,ps3,action,capcom,2012,3.7,0.41,2100,827000,04-10-2025
+36,Asura's Wrath,NULL,6911,x360,action,capcom,2012,3.7,0.24,2100,827000,04-10-2025
+37,Banjo-Kazooie,NULL,342,n64,platform,nintendo,1998,4,3.65,7400,765000,04-10-2025
+38,Banjo-Kazooie,NULL,342,n64,platform,nintendo,1998,4,3.65,7400,765000,04-10-2025
+39,Banjo-Tooie,NULL,1273,n64,platform,nintendo,2000,3.8,1.49,3000,485000,04-10-2025
+40,Batman: Arkham Asylum,NULL,376,x360,action,eidos interactive,2009,3.9,3.5,17000,672000,04-10-2025
+41,Batman: Arkham Asylum,NULL,263,ps3,action,eidos interactive,2009,3.9,4.25,17000,672000,04-10-2025
+42,Batman: Arkham Asylum,NULL,5608,pc,action,eidos interactive,2009,3.9,0.32,17000,672000,04-10-2025
+43,Batman: Arkham City,NULL,3791,pc,action,warner bros. interactive entertainment,2011,4.1,0.53,16000,651000,04-10-2025
+44,Batman: Arkham City,NULL,160,ps3,action,warner bros. interactive entertainment,2011,4.1,5.53,16000,651000,04-10-2025
+45,Batman: Arkham City,NULL,223,x360,action,warner bros. interactive entertainment,2011,4.1,4.76,16000,651000,04-10-2025
+46,Batman: Arkham City,NULL,3791,pc,action,warner bros. interactive entertainment,2011,4.1,0.53,16000,651000,04-10-2025
+47,Batman: Arkham City,NULL,160,ps3,action,warner bros. interactive entertainment,2011,4.1,5.53,16000,651000,04-10-2025
+48,Batman: Arkham City,NULL,223,x360,action,warner bros. interactive entertainment,2011,4.1,4.76,16000,651000,04-10-2025
+49,Batman: Arkham City,NULL,3791,pc,action,warner bros. interactive entertainment,2011,4.1,0.53,16000,651000,04-10-2025
+50,Batman: Arkham City,NULL,160,ps3,action,warner bros. interactive entertainment,2011,4.1,5.53,16000,651000,04-10-2025
+51,Batman: Arkham City,NULL,223,x360,action,warner bros. interactive entertainment,2011,4.1,4.76,16000,651000,04-10-2025
+52,Batman: Arkham Knight,NULL,1319,xone,action,warner bros. interactive entertainment,2015,3.7,1.45,13000,757000,04-10-2025
+53,Batman: Arkham Knight,NULL,323,ps4,action,warner bros. interactive entertainment,2015,3.7,3.79,13000,757000,04-10-2025
+54,Batman: Arkham Knight,NULL,9571,pc,action,warner bros. interactive entertainment,2015,3.7,0.13,13000,757000,04-10-2025
+55,Batman: Arkham Knight,NULL,1319,xone,action,warner bros. interactive entertainment,2015,3.7,1.45,13000,757000,04-10-2025
+56,Batman: Arkham Knight,NULL,323,ps4,action,warner bros. interactive entertainment,2015,3.7,3.79,13000,757000,04-10-2025
+57,Batman: Arkham Knight,NULL,9571,pc,action,warner bros. interactive entertainment,2015,3.7,0.13,13000,757000,04-10-2025
+58,Batman: Arkham Knight,NULL,1319,xone,action,warner bros. interactive entertainment,2015,3.7,1.45,13000,757000,04-10-2025
+59,Batman: Arkham Knight,NULL,323,ps4,action,warner bros. interactive entertainment,2015,3.7,3.79,13000,757000,04-10-2025
+60,Batman: Arkham Knight,NULL,9571,pc,action,warner bros. interactive entertainment,2015,3.7,0.13,13000,757000,04-10-2025
+61,Batman: Arkham Origins,NULL,656,ps3,action,warner bros. interactive entertainment,2013,3.4,2.39,7800,632000,04-10-2025
+62,Batman: Arkham Origins,NULL,887,x360,action,warner bros. interactive entertainment,2013,3.4,1.93,7800,632000,04-10-2025
+63,Batman: Arkham Origins,NULL,5567,wiiu,action,warner bros. interactive entertainment,2013,3.4,0.33,7800,632000,04-10-2025
+64,Batman: Arkham Origins,NULL,5584,pc,action,warner bros. interactive entertainment,2013,3.4,0.32,7800,632000,04-10-2025
+65,Battlefield 4,NULL,858,xone,shooter,electronic arts,2013,3.5,1.98,7100,124000,04-10-2025
+66,Battlefield 4,NULL,337,ps3,shooter,electronic arts,2013,3.5,3.69,7100,124000,04-10-2025
+67,Battlefield 4,NULL,1388,pc,shooter,electronic arts,2013,3.5,1.4,7100,124000,04-10-2025
+68,Battlefield 4,NULL,366,x360,shooter,electronic arts,2013,3.5,3.53,7100,124000,04-10-2025
+69,Battlefield 4,NULL,387,ps4,shooter,electronic arts,2013,3.5,3.43,7100,124000,04-10-2025
+70,Battlefield: Bad Company 2,NULL,2858,pc,shooter,electronic arts,2010,3.6,0.71,4200,119000,04-10-2025
+71,Battlefield: Bad Company 2,NULL,478,ps3,shooter,electronic arts,2010,3.6,2.97,4200,119000,04-10-2025
+72,Battlefield: Bad Company 2,NULL,380,x360,shooter,electronic arts,2010,3.6,3.48,4200,119000,04-10-2025
+73,Bayonetta,NULL,1627,ps3,action,sega,2009,3.9,1.23,13000,2300,04-10-2025
+74,Bayonetta,NULL,2208,x360,action,sega,2009,3.9,0.94,13000,2300,04-10-2025
+75,Bayonetta,NULL,1627,ps3,action,sega,2009,3.9,1.23,13000,2300,04-10-2025
+76,Bayonetta,NULL,2208,x360,action,sega,2009,3.9,0.94,13000,2300,04-10-2025
+77,Bayonetta,NULL,1627,ps3,action,sega,2009,3.9,1.23,13000,2300,04-10-2025
+78,Bayonetta,NULL,2208,x360,action,sega,2009,3.9,0.94,13000,2300,04-10-2025
+79,Bayonetta 2,NULL,2043,wiiu,action,nintendo,2014,4.1,1.01,6000,2000,04-10-2025
+80,Beyond Good & Evil,NULL,10510,xb,adventure,ubisoft,2003,3.9,0.1,2300,629000,04-10-2025
+81,Beyond Good & Evil,NULL,5451,ps2,adventure,ubisoft,2003,3.9,0.33,2300,629000,04-10-2025
+82,Beyond Good & Evil,NULL,11831,gc,adventure,ubisoft,2003,3.9,0.07,2300,629000,04-10-2025
+83,Beyond: Two Souls,NULL,971,ps3,adventure,sony computer entertainment,2013,2.7,1.79,5400,524000,04-10-2025
+84,Billy Hatcher and the Giant Egg,NULL,6668,gc,platform,sega,2003,3.1,0.25,797000,212000,04-10-2025
+85,Binary Domain,NULL,7832,x360,action,sega,2012,3.5,0.19,1100,192000,04-10-2025
+86,Binary Domain,NULL,5449,ps3,action,sega,2012,3.5,0.33,1100,192000,04-10-2025
+87,BioShock,NULL,516,x360,shooter,take-two interactive,2007,4,2.83,17000,1200,04-10-2025
+88,BioShock,NULL,4691,pc,shooter,take-two interactive,2007,4,0.41,17000,1200,04-10-2025
+89,BioShock 2,NULL,732,x360,shooter,take-two interactive,2010,3.6,2.21,9100,691000,04-10-2025
+90,BioShock 2,NULL,1201,ps3,shooter,take-two interactive,2010,3.6,1.55,9100,691000,04-10-2025
+91,BioShock 2,NULL,732,x360,shooter,take-two interactive,2010,3.6,2.21,9100,691000,04-10-2025
+92,BioShock 2,NULL,1201,ps3,shooter,take-two interactive,2010,3.6,1.55,9100,691000,04-10-2025
+93,BioShock Infinite,NULL,3036,pc,shooter,take-two interactive,2013,3.5,0.67,18000,949000,04-10-2025
+94,BioShock Infinite,NULL,867,x360,shooter,take-two interactive,2013,3.5,1.96,18000,949000,04-10-2025
+95,BioShock Infinite,NULL,998,ps3,shooter,take-two interactive,2013,3.5,1.76,18000,949000,04-10-2025
+96,Black,NULL,1594,ps2,shooter,electronic arts,2006,3.4,1.25,2100,196000,04-10-2025
+97,Black,NULL,4654,xb,shooter,electronic arts,2006,3.4,0.42,2100,196000,04-10-2025
+98,Bloodborne,NULL,662,ps4,action,sony computer entertainment,2015,4.5,2.38,17000,3300,04-10-2025
+99,Bloodborne,NULL,662,ps4,action,sony computer entertainment,2015,4.5,2.38,17000,3300,04-10-2025
+100,Bloodborne,NULL,662,ps4,action,sony computer entertainment,2015,4.5,2.38,17000,3300,04-10-2025
+101,Borderlands,NULL,385,x360,shooter,take-two interactive,2009,3.1,3.44,9100,450000,04-10-2025
+102,Borderlands,NULL,8035,pc,shooter,take-two interactive,2009,3.1,0.18,9100,450000,04-10-2025
+103,Borderlands,NULL,779,ps3,shooter,take-two interactive,2009,3.1,2.11,9100,450000,04-10-2025
+104,Borderlands,NULL,385,x360,shooter,take-two interactive,2009,3.1,3.44,9100,450000,04-10-2025
+105,Borderlands,NULL,8035,pc,shooter,take-two interactive,2009,3.1,0.18,9100,450000,04-10-2025
+106,Borderlands,NULL,779,ps3,shooter,take-two interactive,2009,3.1,2.11,9100,450000,04-10-2025
+107,Borderlands 2,NULL,2226,pc,shooter,take-two interactive,2012,3.5,0.93,16000,494000,04-10-2025
+108,Borderlands 2,NULL,705,ps3,shooter,take-two interactive,2012,3.5,2.28,16000,494000,04-10-2025
+109,Borderlands 2,NULL,454,x360,shooter,take-two interactive,2012,3.5,3.07,16000,494000,04-10-2025
+110,Borderlands 2,NULL,2226,pc,shooter,take-two interactive,2012,3.5,0.93,16000,494000,04-10-2025
+111,Borderlands 2,NULL,705,ps3,shooter,take-two interactive,2012,3.5,2.28,16000,494000,04-10-2025
+112,Borderlands 2,NULL,454,x360,shooter,take-two interactive,2012,3.5,3.07,16000,494000,04-10-2025
+113,Borderlands: The Pre-Sequel,NULL,6073,pc,shooter,take-two interactive,2014,2.9,0.29,5300,238000,04-10-2025
+114,Borderlands: The Pre-Sequel,NULL,3049,ps3,shooter,take-two interactive,2014,2.9,0.67,5300,238000,04-10-2025
+115,Borderlands: The Pre-Sequel,NULL,2759,x360,shooter,take-two interactive,2014,2.9,0.75,5300,238000,04-10-2025
+116,Bulletstorm,NULL,8618,pc,shooter,electronic arts,2011,3.2,0.16,2300,125000,04-10-2025
+117,Bulletstorm,NULL,2027,x360,shooter,electronic arts,2011,3.2,1.02,2300,125000,04-10-2025
+118,Bulletstorm,NULL,3803,ps3,shooter,electronic arts,2011,3.2,0.53,2300,125000,04-10-2025
+119,Bully,NULL,2215,ps2,action,take-two interactive,2006,3.9,0.94,6700,768000,04-10-2025
+120,Bully: Scholarship Edition,NULL,1924,x360,action,take-two interactive,2008,4,1.07,3900,457000,04-10-2025
+121,Bully: Scholarship Edition,NULL,14797,pc,action,take-two interactive,2008,4,0.03,3900,457000,04-10-2025
+122,Bully: Scholarship Edition,NULL,3850,wii,action,take-two interactive,2008,4,0.52,3900,457000,04-10-2025
+123,Call of Duty 3,NULL,1921,ps2,shooter,activision,2006,2.8,1.07,2900,122000,04-10-2025
+124,Call of Duty 3,NULL,1240,ps3,shooter,activision,2006,2.8,1.52,2900,122000,04-10-2025
+125,Call of Duty 3,NULL,551,x360,shooter,activision,2006,2.8,2.71,2900,122000,04-10-2025
+126,Call of Duty: Advanced Warfare,NULL,245,ps3,shooter,activision,2014,2.5,4.45,5200,151000,04-10-2025
+127,Call of Duty: Advanced Warfare,NULL,194,xone,shooter,activision,2014,2.5,5.13,5200,151000,04-10-2025
+128,Call of Duty: Advanced Warfare,NULL,258,x360,shooter,activision,2014,2.5,4.31,5200,151000,04-10-2025
+129,Call of Duty: Advanced Warfare,NULL,94,ps4,shooter,activision,2014,2.5,7.6,5200,151000,04-10-2025
+130,Call of Duty: Advanced Warfare,NULL,4742,pc,shooter,activision,2014,2.5,0.41,5200,151000,04-10-2025
+131,Call of Duty: Black Ops,NULL,1381,wii,shooter,activision,2010,3.7,1.4,14000,318000,04-10-2025
+132,Call of Duty: Black Ops,NULL,41,ps3,shooter,activision,2010,3.7,12.73,14000,318000,04-10-2025
+133,Call of Duty: Black Ops,NULL,32,x360,shooter,activision,2010,3.7,14.64,14000,318000,04-10-2025
+134,Call of Duty: Black Ops,NULL,3213,ds,shooter,activision,2010,3.7,0.63,14000,318000,04-10-2025
+135,Call of Duty: Black Ops,NULL,1381,wii,shooter,activision,2010,3.7,1.4,14000,318000,04-10-2025
+136,Call of Duty: Black Ops,NULL,41,ps3,shooter,activision,2010,3.7,12.73,14000,318000,04-10-2025
+137,Call of Duty: Black Ops,NULL,32,x360,shooter,activision,2010,3.7,14.64,14000,318000,04-10-2025
+138,Call of Duty: Black Ops,NULL,3213,ds,shooter,activision,2010,3.7,0.63,14000,318000,04-10-2025
+139,Call of Duty: Black Ops II,NULL,4556,wiiu,shooter,activision,2012,3.8,0.43,13000,286000,04-10-2025
+140,Call of Duty: Black Ops II,NULL,35,ps3,shooter,activision,2012,3.8,14.03,13000,286000,04-10-2025
+141,Call of Duty: Black Ops II,NULL,1219,pc,shooter,activision,2012,3.8,1.53,13000,286000,04-10-2025
+142,Call of Duty: Black Ops II,NULL,36,x360,shooter,activision,2012,3.8,13.73,13000,286000,04-10-2025
+143,Call of Duty: Black Ops II,NULL,4556,wiiu,shooter,activision,2012,3.8,0.43,13000,286000,04-10-2025
+144,Call of Duty: Black Ops II,NULL,35,ps3,shooter,activision,2012,3.8,14.03,13000,286000,04-10-2025
+145,Call of Duty: Black Ops II,NULL,1219,pc,shooter,activision,2012,3.8,1.53,13000,286000,04-10-2025
+146,Call of Duty: Black Ops II,NULL,36,x360,shooter,activision,2012,3.8,13.73,13000,286000,04-10-2025
+147,Call of Duty: Ghosts,NULL,5220,wiiu,shooter,activision,2013,2.4,0.36,6500,150000,04-10-2025
+148,Call of Duty: Ghosts,NULL,506,xone,shooter,activision,2013,2.4,2.86,6500,150000,04-10-2025
+149,Call of Duty: Ghosts,NULL,350,ps4,shooter,activision,2013,2.4,3.63,6500,150000,04-10-2025
+150,Call of Duty: Ghosts,NULL,68,ps3,shooter,activision,2013,2.4,9.59,6500,150000,04-10-2025
+151,Call of Duty: Ghosts,NULL,62,x360,shooter,activision,2013,2.4,10.21,6500,150000,04-10-2025
+152,Call of Duty: Ghosts,NULL,2799,pc,shooter,activision,2013,2.4,0.73,6500,150000,04-10-2025
+153,Call of Duty: Modern Warfare 2,NULL,37,x360,shooter,activision,2009,3.8,13.51,14000,276000,04-10-2025
+154,Call of Duty: Modern Warfare 2,NULL,56,ps3,shooter,activision,2009,3.8,10.69,14000,276000,04-10-2025
+155,Call of Duty: Modern Warfare 2,NULL,2349,pc,shooter,activision,2009,3.8,0.89,14000,276000,04-10-2025
+156,Call of Duty: Modern Warfare 3,NULL,1039,pc,shooter,activision,2011,3.2,1.72,10000,195000,04-10-2025
+157,Call of Duty: Modern Warfare 3,NULL,30,x360,shooter,activision,2011,3.2,14.76,10000,195000,04-10-2025
+158,Call of Duty: Modern Warfare 3,NULL,38,ps3,shooter,activision,2011,3.2,13.46,10000,195000,04-10-2025
+159,Call of Duty: Modern Warfare 3,NULL,2352,wii,shooter,activision,2011,3.2,0.89,10000,195000,04-10-2025
+160,Castlevania,NULL,1625,nes,platform,konami digital entertainment,1986,3.4,1.23,5700,365000,04-10-2025
+161,Castlevania: Aria of Sorrow,NULL,6252,gba,platform,konami digital entertainment,2003,4.2,0.28,5100,871000,04-10-2025
+162,Castlevania: Circle of the Moon,NULL,2332,gba,platform,konami digital entertainment,2001,3,0.89,2100,272000,04-10-2025
+163,Castlevania: Harmony of Dissonance,NULL,6602,gba,platform,konami digital entertainment,2002,3.2,0.26,2000,288000,04-10-2025
+164,Castlevania: Order of Ecclesia,NULL,4709,ds,platform,konami digital entertainment,2008,4,0.41,2000,540000,04-10-2025
+165,Castlevania: Symphony of the Night,NULL,1553,ps,platform,konami digital entertainment,1997,4.4,1.27,9100,1700,04-10-2025
+166,Chaos;Head Noah,NULL,13988,x360,adventure,5pb,2009,4,0.04,199000,174000,04-10-2025
+167,Chaos;Head Noah,NULL,13988,x360,adventure,5pb,2009,4,0.04,199000,174000,04-10-2025
+168,Chrono Cross,NULL,934,ps,role-playing,squaresoft,1999,4,1.86,1700,768000,04-10-2025
+169,Chrono Trigger,NULL,690,snes,role-playing,squaresoft,1995,4.5,2.31,9100,2200,04-10-2025
+170,Chrono Trigger,NULL,690,snes,role-playing,squaresoft,1995,4.5,2.31,9100,2200,04-10-2025
+171,Chrono Trigger,NULL,1294,ds,role-playing,square enix,2008,4.4,1.47,2400,499000,04-10-2025
+172,Condemned: Criminal Origins,NULL,4644,x360,action,sega,2005,3.5,0.42,1300,270000,04-10-2025
+173,Conker's Bad Fur Day,NULL,2675,n64,platform,thq,2001,3.6,0.77,2700,503000,04-10-2025
+174,Crash Bandicoot,NULL,117,ps,platform,sony computer entertainment,1996,3.5,6.82,8700,288000,04-10-2025
+175,Crash Nitro Kart,NULL,874,ps2,racing,vivendi games,2003,3.1,1.95,1700,52000,04-10-2025
+176,Crash Nitro Kart,NULL,5707,xb,racing,vivendi games,2003,3.1,0.31,1700,52000,04-10-2025
+177,Crash Nitro Kart,NULL,4273,gba,racing,vivendi games,2003,3.1,0.46,1700,52000,04-10-2025
+178,Crash Nitro Kart,NULL,6550,gc,racing,vivendi games,2003,3.1,0.26,1700,52000,04-10-2025
+179,Crash of the Titans,NULL,5609,x360,action,vivendi games,2007,3,0.32,3800,122000,04-10-2025
+180,Crash of the Titans,NULL,4690,ps2,action,vivendi games,2007,3,0.41,3800,122000,04-10-2025
+181,Crash of the Titans,NULL,4077,ds,action,vivendi games,2007,3,0.49,3800,122000,04-10-2025
+182,Crash of the Titans,NULL,4237,wii,action,vivendi games,2007,3,0.46,3800,122000,04-10-2025
+183,Crash of the Titans,NULL,3140,psp,action,vivendi games,2007,3,0.64,3800,122000,04-10-2025
+184,Crash Team Racing,NULL,221,ps,racing,sony computer entertainment,1999,4,4.79,4800,165000,04-10-2025
+185,Crysis,NULL,2857,pc,shooter,electronic arts,2007,3.2,0.72,3000,241000,04-10-2025
+186,Crysis,NULL,2857,pc,shooter,electronic arts,2007,3.2,0.72,3000,241000,04-10-2025
+187,Crysis 2,NULL,1517,ps3,action,electronic arts,2011,3.1,1.3,2900,155000,04-10-2025
+188,Crysis 2,NULL,1452,x360,action,electronic arts,2011,3.1,1.35,2900,155000,04-10-2025
+189,Crysis 2,NULL,2781,pc,action,electronic arts,2011,3.1,0.74,2900,155000,04-10-2025
+190,Danganronpa 2: Goodbye Despair,NULL,7762,psp,misc,spike,2012,3.9,0.19,9900,605000,04-10-2025
+191,Dante's Inferno,NULL,1889,ps3,action,electronic arts,2010,3.2,1.09,2600,334000,04-10-2025
+192,Dante's Inferno,NULL,2256,x360,action,electronic arts,2010,3.2,0.92,2600,334000,04-10-2025
+193,Dante's Inferno,NULL,7793,psp,action,electronic arts,2010,3.2,0.19,2600,334000,04-10-2025
+194,Dark Souls,NULL,813,ps3,role-playing,namco bandai games,2011,4.3,2.07,14000,1400,04-10-2025
+195,Dark Souls,NULL,2080,x360,role-playing,namco bandai games,2011,4.3,1,14000,1400,04-10-2025
+196,Dark Souls,NULL,813,ps3,role-playing,namco bandai games,2011,4.3,2.07,14000,1400,04-10-2025
+197,Dark Souls,NULL,2080,x360,role-playing,namco bandai games,2011,4.3,1,14000,1400,04-10-2025
+198,Dark Souls,NULL,813,ps3,role-playing,namco bandai games,2011,4.3,2.07,14000,1400,04-10-2025
+199,Dark Souls,NULL,2080,x360,role-playing,namco bandai games,2011,4.3,1,14000,1400,04-10-2025
+200,Dark Souls II,NULL,8119,pc,role-playing,namco bandai games,2014,3.3,0.18,6700,834000,04-10-2025
+201,Dark Souls II,NULL,1487,ps3,role-playing,namco bandai games,2014,3.3,1.32,6700,834000,04-10-2025
+202,Dark Souls II,NULL,2722,x360,role-playing,namco bandai games,2014,3.3,0.76,6700,834000,04-10-2025
+203,Dark Souls II,NULL,8119,pc,role-playing,namco bandai games,2014,3.3,0.18,6700,834000,04-10-2025
+204,Dark Souls II,NULL,1487,ps3,role-playing,namco bandai games,2014,3.3,1.32,6700,834000,04-10-2025
+205,Dark Souls II,NULL,2722,x360,role-playing,namco bandai games,2014,3.3,0.76,6700,834000,04-10-2025
+206,Dark Souls III,NULL,1191,ps4,role-playing,namco bandai games,2016,4.2,1.56,19000,2200,04-10-2025
+207,Dark Souls III,NULL,5270,xone,role-playing,namco bandai games,2016,4.2,0.35,19000,2200,04-10-2025
+208,Dark Souls III,NULL,12901,pc,role-playing,namco bandai games,2016,4.2,0.05,19000,2200,04-10-2025
+209,Dark Souls III,NULL,1191,ps4,role-playing,namco bandai games,2016,4.2,1.56,19000,2200,04-10-2025
+210,Dark Souls III,NULL,5270,xone,role-playing,namco bandai games,2016,4.2,0.35,19000,2200,04-10-2025
+211,Dark Souls III,NULL,12901,pc,role-playing,namco bandai games,2016,4.2,0.05,19000,2200,04-10-2025
+212,Dark Souls III,NULL,1191,ps4,role-playing,namco bandai games,2016,4.2,1.56,19000,2200,04-10-2025
+213,Dark Souls III,NULL,5270,xone,role-playing,namco bandai games,2016,4.2,0.35,19000,2200,04-10-2025
+214,Dark Souls III,NULL,12901,pc,role-playing,namco bandai games,2016,4.2,0.05,19000,2200,04-10-2025
+215,Dead Space,NULL,842,ps3,action,electronic arts,2008,4,2.02,9600,1100,04-10-2025
+216,Dead Space,NULL,3384,pc,action,electronic arts,2008,4,0.59,9600,1100,04-10-2025
+217,Dead Space,NULL,1364,x360,action,electronic arts,2008,4,1.42,9600,1100,04-10-2025
+218,Dead Space,NULL,842,ps3,action,electronic arts,2008,4,2.02,9600,1100,04-10-2025
+219,Dead Space,NULL,3384,pc,action,electronic arts,2008,4,0.59,9600,1100,04-10-2025
+220,Dead Space,NULL,1364,x360,action,electronic arts,2008,4,1.42,9600,1100,04-10-2025
+221,Dead Space 2,NULL,5575,pc,shooter,electronic arts,2011,4,0.33,6000,716000,04-10-2025
+222,Dead Space 2,NULL,1230,x360,shooter,electronic arts,2011,4,1.52,6000,716000,04-10-2025
+223,Dead Space 2,NULL,1345,ps3,shooter,electronic arts,2011,4,1.44,6000,716000,04-10-2025
+224,Dead Space 3,NULL,2083,x360,action,electronic arts,2013,2.6,0.99,3200,388000,04-10-2025
+225,Dead Space 3,NULL,2077,ps3,action,electronic arts,2013,2.6,1,3200,388000,04-10-2025
+226,Deadly Premonition,NULL,6402,x360,action,rising star games,2010,3.9,0.27,1400,628000,04-10-2025
+227,Deadly Premonition,NULL,8732,ps3,action,rising star games,2010,3.9,0.15,1400,628000,04-10-2025
+228,Demon's Souls,NULL,943,ps3,role-playing,namco bandai games,2009,4.1,1.84,5500,1200,04-10-2025
+229,Destroy All Humans!,NULL,2209,ps2,shooter,thq,2005,3.2,0.94,2200,188000,04-10-2025
+230,Destroy All Humans!,NULL,4232,xb,shooter,thq,2005,3.2,0.46,2200,188000,04-10-2025
+231,Deus Ex,NULL,16166,pc,role-playing,eidos interactive,2000,4.4,0.01,3800,958000,04-10-2025
+232,Deus Ex,NULL,16166,pc,role-playing,eidos interactive,2000,4.4,0.01,3800,958000,04-10-2025
+233,Deus Ex: Human Revolution,NULL,3432,pc,shooter,square enix,2011,3.8,0.59,5800,488000,04-10-2025
+234,Deus Ex: Human Revolution,NULL,1400,x360,shooter,square enix,2011,3.8,1.39,5800,488000,04-10-2025
+235,Deus Ex: Human Revolution,NULL,1394,ps3,shooter,square enix,2011,3.8,1.39,5800,488000,04-10-2025
+236,Deus Ex: Mankind Divided,NULL,8949,xone,role-playing,square enix,2016,3.5,0.15,3400,458000,04-10-2025
+237,Deus Ex: Mankind Divided,NULL,5501,ps4,role-playing,square enix,2016,3.5,0.33,3400,458000,04-10-2025
+238,Deus Ex: Mankind Divided,NULL,15412,pc,role-playing,square enix,2016,3.5,0.02,3400,458000,04-10-2025
+239,Devil May Cry,NULL,476,ps2,action,capcom,2001,3.5,2.99,10000,1100,04-10-2025
+240,Devil May Cry 2,NULL,864,ps2,action,capcom,2003,1.6,1.97,6400,517000,04-10-2025
+241,Devil May Cry 3: Dante's Awakening,NULL,792,ps2,action,capcom,2005,4.2,2.09,6100,648000,04-10-2025
+242,Devil May Cry 3: Dante's Awakening,NULL,792,ps2,action,capcom,2005,4.2,2.09,6100,648000,04-10-2025
+243,Devil May Cry 4,NULL,1449,x360,action,capcom,2008,3.6,1.35,6500,681000,04-10-2025
+244,Devil May Cry 4,NULL,1164,ps3,action,capcom,2008,3.6,1.59,6500,681000,04-10-2025
+245,Devil May Cry 4,NULL,13640,pc,action,capcom,2008,3.6,0.04,6500,681000,04-10-2025
+246,Devil May Cry HD Collection,NULL,2458,ps3,action,capcom,2012,3.9,0.84,2200,371000,04-10-2025
+247,Devil May Cry HD Collection,NULL,4478,x360,action,capcom,2012,3.9,0.44,2200,371000,04-10-2025
+248,Digimon World: Next Order,NULL,10891,psv,action,namco bandai games,2016,3.1,0.09,321000,133000,04-10-2025
+249,Dishonored,NULL,3938,pc,action,bethesda softworks,2012,3.9,0.51,14000,866000,04-10-2025
+250,Dishonored,NULL,1197,ps3,action,bethesda softworks,2012,3.9,1.55,14000,866000,04-10-2025
+251,Dishonored,NULL,1033,x360,action,bethesda softworks,2012,3.9,1.73,14000,866000,04-10-2025
+252,Dishonored,NULL,3938,pc,action,bethesda softworks,2012,3.9,0.51,14000,866000,04-10-2025
+253,Dishonored,NULL,1197,ps3,action,bethesda softworks,2012,3.9,1.55,14000,866000,04-10-2025
+254,Dishonored,NULL,1033,x360,action,bethesda softworks,2012,3.9,1.73,14000,866000,04-10-2025
+255,Dishonored,NULL,3938,pc,action,bethesda softworks,2012,3.9,0.51,14000,866000,04-10-2025
+256,Dishonored,NULL,1197,ps3,action,bethesda softworks,2012,3.9,1.55,14000,866000,04-10-2025
+257,Dishonored,NULL,1033,x360,action,bethesda softworks,2012,3.9,1.73,14000,866000,04-10-2025
+258,Disney's Aladdin,NULL,1011,snes,platform,capcom,1993,3.4,1.75,2200,85000,04-10-2025
+259,DmC: Devil May Cry,NULL,4431,x360,action,capcom,2013,3,0.44,6300,448000,04-10-2025
+260,DmC: Devil May Cry,NULL,2520,ps3,action,capcom,2013,3,0.82,6300,448000,04-10-2025
+261,DmC: Devil May Cry,NULL,4431,x360,action,capcom,2013,3,0.44,6300,448000,04-10-2025
+262,DmC: Devil May Cry,NULL,2520,ps3,action,capcom,2013,3,0.82,6300,448000,04-10-2025
+263,Donkey Kong Country,NULL,72,snes,platform,nintendo,1994,3.9,9.3,11000,514000,04-10-2025
+264,Donkey Kong Country,NULL,72,snes,platform,nintendo,1994,3.9,9.3,11000,514000,04-10-2025
+265,Donkey Kong Country,NULL,72,snes,platform,nintendo,1994,3.9,9.3,11000,514000,04-10-2025
+266,Donkey Kong Country 2: Diddy's Kong Quest,NULL,188,snes,platform,nintendo,1995,4.2,5.15,6600,455000,04-10-2025
+267,Donkey Kong Country 2: Diddy's Kong Quest,NULL,188,snes,platform,nintendo,1995,4.2,5.15,6600,455000,04-10-2025
+268,Donkey Kong Country Returns,NULL,126,wii,platform,nintendo,2010,3.9,6.59,5300,443000,04-10-2025
+269,Dragon's Dogma,NULL,2583,x360,role-playing,capcom,2012,3.7,0.8,1100,206000,04-10-2025
+270,Dragon's Dogma,NULL,979,ps3,role-playing,capcom,2012,3.7,1.78,1100,206000,04-10-2025
+271,Dragon Age: Origins,NULL,600,x360,role-playing,electronic arts,2009,4,2.57,6100,534000,04-10-2025
+272,Dragon Age: Origins,NULL,1064,ps3,role-playing,electronic arts,2009,4,1.69,6100,534000,04-10-2025
+273,Dragon Age: Origins,NULL,3880,pc,role-playing,electronic arts,2009,4,0.51,6100,534000,04-10-2025
+274,Dragon Age: Origins,NULL,600,x360,role-playing,electronic arts,2009,4,2.57,6100,534000,04-10-2025
+275,Dragon Age: Origins,NULL,1064,ps3,role-playing,electronic arts,2009,4,1.69,6100,534000,04-10-2025
+276,Dragon Age: Origins,NULL,3880,pc,role-playing,electronic arts,2009,4,0.51,6100,534000,04-10-2025
+277,Dragon Ball GT: Final Bout,NULL,6290,ps,fighting,namco bandai games,1997,1.8,0.27,1200,23000,04-10-2025
+278,Dragon Ball Z: Budokai Tenkaichi,NULL,1107,ps2,fighting,atari,2005,2.9,1.66,1700,29000,04-10-2025
+279,Dragon Ball Z: Budokai Tenkaichi 3,NULL,1993,wii,fighting,atari,2007,3.9,1.04,6600,135000,04-10-2025
+280,Dragon Ball Z: Budokai Tenkaichi 3,NULL,470,ps2,fighting,atari,2007,3.9,3,6600,135000,04-10-2025
+281,Dragon Ball: Xenoverse,NULL,5701,xone,fighting,namco bandai games,2015,2.9,0.31,3700,71000,04-10-2025
+282,Dragon Ball: Xenoverse,NULL,3630,ps3,fighting,namco bandai games,2015,2.9,0.55,3700,71000,04-10-2025
+283,Dragon Ball: Xenoverse,NULL,1979,ps4,fighting,namco bandai games,2015,2.9,1.05,3700,71000,04-10-2025
+284,Dragon Ball: Xenoverse,NULL,6375,x360,fighting,namco bandai games,2015,2.9,0.27,3700,71000,04-10-2025
+285,Dragon Quest V: Hand of the Heavenly Bride,NULL,1157,ds,role-playing,square enix,2008,4.2,1.6,1400,478000,04-10-2025
+286,Drakengard 3,NULL,5869,ps3,role-playing,square enix,2013,3.8,0.3,1900,946000,04-10-2025
+287,EarthBound,NULL,2552,snes,role-playing,nintendo,1994,4.2,0.81,9000,1800,04-10-2025
+288,F-Zero X,NULL,1862,n64,racing,nintendo,1998,3.9,1.1,1700,172000,04-10-2025
+289,Fable II,NULL,260,x360,role-playing,microsoft game studios,2008,3.6,4.31,3200,271000,04-10-2025
+290,Fallout 3,NULL,209,x360,role-playing,bethesda softworks,2008,3.4,4.96,12000,589000,04-10-2025
+291,Fallout 3,NULL,300,ps3,role-playing,bethesda softworks,2008,3.4,4.01,12000,589000,04-10-2025
+292,Fallout 3,NULL,2105,pc,role-playing,bethesda softworks,2008,3.4,0.99,12000,589000,04-10-2025
+293,Fallout 4,NULL,110,ps4,role-playing,bethesda softworks,2015,3.1,6.96,16000,752000,04-10-2025
+294,Fallout 4,NULL,288,xone,role-playing,bethesda softworks,2015,3.1,4.09,16000,752000,04-10-2025
+295,Fallout 4,NULL,1632,pc,role-playing,bethesda softworks,2015,3.1,1.23,16000,752000,04-10-2025
+296,Fallout 4,NULL,110,ps4,role-playing,bethesda softworks,2015,3.1,6.96,16000,752000,04-10-2025
+297,Fallout 4,NULL,288,xone,role-playing,bethesda softworks,2015,3.1,4.09,16000,752000,04-10-2025
+298,Fallout 4,NULL,1632,pc,role-playing,bethesda softworks,2015,3.1,1.23,16000,752000,04-10-2025
+299,Fallout: New Vegas,NULL,290,x360,role-playing,bethesda softworks,2010,4.3,4.08,16000,1400,04-10-2025
+300,Fallout: New Vegas,NULL,1743,pc,role-playing,bethesda softworks,2010,4.3,1.16,16000,1400,04-10-2025
+301,Fallout: New Vegas,NULL,431,ps3,role-playing,bethesda softworks,2010,4.3,3.17,16000,1400,04-10-2025
+302,Fallout: New Vegas,NULL,290,x360,role-playing,bethesda softworks,2010,4.3,4.08,16000,1400,04-10-2025
+303,Fallout: New Vegas,NULL,1743,pc,role-playing,bethesda softworks,2010,4.3,1.16,16000,1400,04-10-2025
+304,Fallout: New Vegas,NULL,431,ps3,role-playing,bethesda softworks,2010,4.3,3.17,16000,1400,04-10-2025
+305,Fallout: New Vegas,NULL,290,x360,role-playing,bethesda softworks,2010,4.3,4.08,16000,1400,04-10-2025
+306,Fallout: New Vegas,NULL,1743,pc,role-playing,bethesda softworks,2010,4.3,1.16,16000,1400,04-10-2025
+307,Fallout: New Vegas,NULL,431,ps3,role-playing,bethesda softworks,2010,4.3,3.17,16000,1400,04-10-2025
+308,Far Cry 3,NULL,460,x360,shooter,ubisoft,2012,3.7,3.04,14000,660000,04-10-2025
+309,Far Cry 3,NULL,383,ps3,shooter,ubisoft,2012,3.7,3.45,14000,660000,04-10-2025
+310,Far Cry 3,NULL,2108,pc,shooter,ubisoft,2012,3.7,0.98,14000,660000,04-10-2025
+311,Far Cry 4,NULL,1149,xone,shooter,ubisoft,2014,3.2,1.61,8500,442000,04-10-2025
+312,Far Cry 4,NULL,1339,ps3,shooter,ubisoft,2014,3.2,1.44,8500,442000,04-10-2025
+313,Far Cry 4,NULL,2121,x360,shooter,ubisoft,2014,3.2,0.98,8500,442000,04-10-2025
+314,Far Cry 4,NULL,3249,pc,shooter,ubisoft,2014,3.2,0.62,8500,442000,04-10-2025
+315,Far Cry 4,NULL,296,ps4,shooter,ubisoft,2014,3.2,4.03,8500,442000,04-10-2025
+316,Far Cry 4,NULL,1149,xone,shooter,ubisoft,2014,3.2,1.61,8500,442000,04-10-2025
+317,Far Cry 4,NULL,1339,ps3,shooter,ubisoft,2014,3.2,1.44,8500,442000,04-10-2025
+318,Far Cry 4,NULL,2121,x360,shooter,ubisoft,2014,3.2,0.98,8500,442000,04-10-2025
+319,Far Cry 4,NULL,3249,pc,shooter,ubisoft,2014,3.2,0.62,8500,442000,04-10-2025
+320,Far Cry 4,NULL,296,ps4,shooter,ubisoft,2014,3.2,4.03,8500,442000,04-10-2025
+321,Fatal Frame II: Crimson Butterfly,NULL,8545,ps2,action,ubisoft,2003,4.2,0.16,1000,513000,04-10-2025
+322,Fatal Frame II: Crimson Butterfly,NULL,8545,ps2,action,ubisoft,2003,4.2,0.16,1000,513000,04-10-2025
+323,FIFA 14,NULL,4505,pc,sports,electronic arts,2013,3.2,0.43,2200,13000,04-10-2025
+324,FIFA 14,NULL,257,x360,sports,electronic arts,2013,3.2,4.31,2200,13000,04-10-2025
+325,FIFA 14,NULL,6663,3ds,sports,electronic arts,2013,3.2,0.25,2200,13000,04-10-2025
+326,FIFA 14,NULL,4540,wii,sports,electronic arts,2013,3.2,0.43,2200,13000,04-10-2025
+327,FIFA 14,NULL,113,ps3,sports,electronic arts,2013,3.2,6.9,2200,13000,04-10-2025
+328,FIFA 14,NULL,3990,psv,sports,electronic arts,2013,3.2,0.5,2200,13000,04-10-2025
+329,FIFA 14,NULL,494,ps4,sports,electronic arts,2013,3.2,2.9,2200,13000,04-10-2025
+330,FIFA 14,NULL,1700,xone,sports,electronic arts,2013,3.2,1.19,2200,13000,04-10-2025
+331,FIFA 14,NULL,7036,psp,sports,electronic arts,2013,3.2,0.23,2200,13000,04-10-2025
+332,Final Fantasy I & II: Dawn of Souls,NULL,1702,gba,role-playing,nintendo,2004,3.4,1.19,1100,63000,04-10-2025
+333,Final Fantasy III,NULL,774,ds,role-playing,square enix,2006,3.1,2.12,2600,290000,04-10-2025
+334,Final Fantasy IX,NULL,174,ps,role-playing,squaresoft,2000,4.3,5.3,6800,1200,04-10-2025
+335,Final Fantasy Tactics,NULL,631,ps,role-playing,squaresoft,1997,4.2,2.45,2100,681000,04-10-2025
+336,Final Fantasy V,NULL,630,snes,role-playing,squaresoft,1992,3.8,2.45,2300,460000,04-10-2025
+337,Final Fantasy VII,NULL,67,ps,role-playing,sony computer entertainment,1997,4.2,9.72,15000,1500,04-10-2025
+338,Final Fantasy VII,NULL,67,ps,role-playing,sony computer entertainment,1997,4.2,9.72,15000,1500,04-10-2025
+339,Final Fantasy VII,NULL,67,ps,role-playing,sony computer entertainment,1997,4.2,9.72,15000,1500,04-10-2025
+340,Final Fantasy VIII,NULL,88,ps,role-playing,squaresoft,1999,3.6,7.86,5100,715000,04-10-2025
+341,Final Fantasy X,NULL,87,ps2,role-playing,sony computer entertainment,2001,4.1,8.05,8500,990000,04-10-2025
+342,Final Fantasy XIII-2,NULL,2770,x360,role-playing,square enix,2011,3.3,0.74,2300,449000,04-10-2025
+343,Final Fantasy XIII-2,NULL,564,ps3,role-playing,square enix,2011,3.3,2.68,2300,449000,04-10-2025
+344,Final Fantasy XIII-2,NULL,2770,x360,role-playing,square enix,2011,3.3,0.74,2300,449000,04-10-2025
+345,Final Fantasy XIII-2,NULL,564,ps3,role-playing,square enix,2011,3.3,2.68,2300,449000,04-10-2025
+346,Fire Emblem: Awakening,NULL,849,3ds,role-playing,nintendo,2012,3.8,2,9500,814000,04-10-2025
+347,Fire Emblem: Path of Radiance,NULL,3725,gc,action,nintendo,2005,4.2,0.54,2900,716000,04-10-2025
+348,Fire Emblem: Radiant Dawn,NULL,3904,wii,strategy,nintendo,2007,4,0.51,1800,497000,04-10-2025
+349,Fire Emblem: Shadow Dragon,NULL,3116,ds,role-playing,nintendo,2008,3.2,0.65,1900,235000,04-10-2025
+350,Fire Emblem: The Sacred Stones,NULL,2337,gba,strategy,nintendo,2004,3.7,0.89,3700,395000,04-10-2025
+351,Fire Emblem: Thracia 776,NULL,6584,snes,strategy,nintendo,1999,4.1,0.26,820000,329000,04-10-2025
+352,Fire Emblem: Thracia 776,NULL,6584,snes,strategy,nintendo,1999,4.1,0.26,820000,329000,04-10-2025
+353,Gears of War,NULL,142,x360,shooter,microsoft game studios,2006,3.5,6.11,5300,307000,04-10-2025
+354,Gears of War 2,NULL,119,x360,shooter,microsoft game studios,2008,3.7,6.76,4600,225000,04-10-2025
+355,Ghost Trick: Phantom Detective,NULL,4621,ds,adventure,capcom,2010,4.4,0.42,3600,1200,04-10-2025
+356,Ghost Trick: Phantom Detective,NULL,4621,ds,adventure,capcom,2010,4.4,0.42,3600,1200,04-10-2025
+357,God of War,NULL,246,ps2,action,sony computer entertainment,2005,3.6,4.45,11000,896000,04-10-2025
+358,God of War II,NULL,291,ps2,action,sony computer entertainment,2007,4,4.07,9300,687000,04-10-2025
+359,God of War II,NULL,291,ps2,action,sony computer entertainment,2007,4,4.07,9300,687000,04-10-2025
+360,God of War: Ascension,NULL,697,ps3,action,sony computer entertainment,2013,2.9,2.29,2700,351000,04-10-2025
+361,God of War: Chains of Olympus,NULL,426,psp,action,sony computer entertainment,2008,3.2,3.19,4000,300000,04-10-2025
+362,GoldenEye 007,NULL,85,n64,shooter,nintendo,1997,3.6,8.09,4500,334000,04-10-2025
+363,Grand Theft Auto,NULL,686,ps,action,take-two interactive,1997,2.5,2.32,1600,109000,04-10-2025
+364,Grand Theft Auto III,NULL,39,ps2,action,take-two interactive,2001,3.3,13.1,7800,373000,04-10-2025
+365,Grand Theft Auto IV,NULL,2359,pc,action,take-two interactive,2008,3.8,0.88,14000,721000,04-10-2025
+366,Grand Theft Auto IV,NULL,57,ps3,action,take-two interactive,2008,3.8,10.57,14000,721000,04-10-2025
+367,Grand Theft Auto IV,NULL,52,x360,action,take-two interactive,2008,3.8,11.02,14000,721000,04-10-2025
+368,Grand Theft Auto V,NULL,24,x360,action,take-two interactive,2013,3.8,16.38,30000,664000,04-10-2025
+369,Grand Theft Auto V,NULL,17,ps3,action,take-two interactive,2013,3.8,21.4,30000,664000,04-10-2025
+370,Grand Theft Auto V,NULL,24,x360,action,take-two interactive,2013,3.8,16.38,30000,664000,04-10-2025
+371,Grand Theft Auto V,NULL,17,ps3,action,take-two interactive,2013,3.8,21.4,30000,664000,04-10-2025
+372,Grand Theft Auto V,NULL,24,x360,action,take-two interactive,2013,3.8,16.38,30000,664000,04-10-2025
+373,Grand Theft Auto V,NULL,17,ps3,action,take-two interactive,2013,3.8,21.4,30000,664000,04-10-2025
+374,Grand Theft Auto: San Andreas,NULL,18,ps2,action,take-two interactive,2004,4.1,20.81,19000,742000,04-10-2025
+375,Grand Theft Auto: Vice City,NULL,25,ps2,action,take-two interactive,2002,3.8,16.15,12000,526000,04-10-2025
+376,Guitar Hero 5,NULL,1176,wii,misc,activision,2009,3.2,1.58,1100,22000,04-10-2025
+377,Guitar Hero 5,NULL,1800,x360,misc,activision,2009,3.2,1.14,1100,22000,04-10-2025
+378,Guitar Hero 5,NULL,1849,ps3,misc,activision,2009,3.2,1.1,1100,22000,04-10-2025
+379,Guitar Hero 5,NULL,1830,ps2,misc,activision,2009,3.2,1.12,1100,22000,04-10-2025
+380,Guitar Hero III: Legends of Rock,NULL,712,ps3,misc,activision,2007,3.9,2.26,6900,78000,04-10-2025
+381,Guitar Hero III: Legends of Rock,NULL,16048,pc,misc,aspyr,2007,3.9,0.01,6900,78000,04-10-2025
+382,Guitar Hero III: Legends of Rock,NULL,208,ps2,misc,activision,2007,3.9,4.98,6900,78000,04-10-2025
+383,Guitar Hero III: Legends of Rock,NULL,231,wii,misc,activision,2007,3.9,4.62,6900,78000,04-10-2025
+384,Guitar Hero III: Legends of Rock,NULL,238,x360,misc,activision,2007,3.9,4.53,6900,78000,04-10-2025
+385,Gun,NULL,1723,ps2,shooter,activision,2005,3.3,1.17,1400,152000,04-10-2025
+386,Gun,NULL,3861,xb,shooter,activision,2005,3.3,0.52,1400,152000,04-10-2025
+387,Gun,NULL,8121,gc,shooter,activision,2005,3.3,0.18,1400,152000,04-10-2025
+388,Half-Life 2,NULL,667,pc,shooter,vivendi games,2004,4.2,2.37,15000,1000,04-10-2025
+389,Halo 3,NULL,44,x360,shooter,microsoft game studios,2007,4.2,12.14,12000,528000,04-10-2025
+390,Halo 4,NULL,66,x360,shooter,microsoft game studios,2012,3,9.76,7600,277000,04-10-2025
+391,Halo 4,NULL,66,x360,shooter,microsoft game studios,2012,3,9.76,7600,277000,04-10-2025
+392,Halo 5: Guardians,NULL,261,xone,shooter,microsoft game studios,2015,2.5,4.26,3500,257000,04-10-2025
+393,Halo: Reach,NULL,63,x360,shooter,microsoft game studios,2010,4,9.88,11000,370000,04-10-2025
+394,Halo: The Master Chief Collection,NULL,440,xone,shooter,microsoft game studios,2014,4.2,3.15,5100,463000,04-10-2025
+395,Haunting Ground,NULL,11931,ps2,action,capcom,2005,3.8,0.07,597000,572000,04-10-2025
+396,Hitman: Blood Money,NULL,4875,x360,action,eidos interactive,2006,4,0.4,3200,238000,04-10-2025
+397,Hitman: Blood Money,NULL,14084,pc,action,eidos interactive,2006,4,0.04,3200,238000,04-10-2025
+398,Hitman: Blood Money,NULL,3966,ps2,action,eidos interactive,2006,4,0.5,3200,238000,04-10-2025
+399,Hitman: Blood Money,NULL,9096,xb,action,eidos interactive,2006,4,0.14,3200,238000,04-10-2025
+400,Hotel Dusk: Room 215,NULL,3578,ds,adventure,nintendo,2007,4,0.56,1600,838000,04-10-2025
+401,Ico,NULL,4168,ps2,action,sony computer entertainment,2001,4,0.47,3500,1200,04-10-2025
+402,Infamous 2,NULL,941,ps3,action,sony computer entertainment,2011,3.7,1.85,4400,343000,04-10-2025
+403,Infamous: Second Son,NULL,539,ps4,action,sony computer entertainment,2014,3.4,2.78,7600,574000,04-10-2025
+404,Infamous: Second Son,NULL,539,ps4,action,sony computer entertainment,2014,3.4,2.78,7600,574000,04-10-2025
+405,Injustice: Gods Among Us,NULL,7610,wiiu,fighting,warner bros. interactive entertainment,2013,3,0.2,7100,112000,04-10-2025
+406,Injustice: Gods Among Us,NULL,1372,x360,fighting,warner bros. interactive entertainment,2013,3,1.41,7100,112000,04-10-2025
+407,Injustice: Gods Among Us,NULL,9159,psv,fighting,warner bros. interactive entertainment,2013,3,0.14,7100,112000,04-10-2025
+408,Injustice: Gods Among Us,NULL,1592,ps3,fighting,warner bros. interactive entertainment,2013,3,1.25,7100,112000,04-10-2025
+409,Injustice: Gods Among Us,NULL,2395,ps4,fighting,warner bros. interactive entertainment,2013,3,0.87,7100,112000,04-10-2025
+410,JoJo's Bizarre Adventure,NULL,15163,ps,fighting,virgin interactive,1999,3.7,0.02,634000,82000,04-10-2025
+411,JoJo's Bizarre Adventure: Eyes of Heaven,NULL,14377,ps3,fighting,namco bandai games,2015,2.8,0.03,1700,196000,04-10-2025
+412,JoJo's Bizarre Adventure: Eyes of Heaven,NULL,14230,ps4,fighting,namco bandai games,2015,2.8,0.03,1700,196000,04-10-2025
+413,Journey,NULL,6619,ps3,adventure,sony computer entertainment europe,2012,3.9,0.25,12000,1700,04-10-2025
+414,Journey,NULL,6619,ps3,adventure,sony computer entertainment europe,2012,3.9,0.25,12000,1700,04-10-2025
+415,Journey,NULL,6619,ps3,adventure,sony computer entertainment europe,2012,3.9,0.25,12000,1700,04-10-2025
+416,Just Cause 2,NULL,978,ps3,action,square enix,2010,3.2,1.78,5100,142000,04-10-2025
+417,Just Cause 2,NULL,1134,x360,action,square enix,2010,3.2,1.62,5100,142000,04-10-2025
+418,Just Cause 2,NULL,9549,pc,action,square enix,2010,3.2,0.13,5100,142000,04-10-2025
+419,Just Cause 3,NULL,9138,pc,action,square enix,2015,3.1,0.14,4900,155000,04-10-2025
+420,Just Cause 3,NULL,949,ps4,action,square enix,2015,3.1,1.83,4900,155000,04-10-2025
+421,Just Cause 3,NULL,2369,xone,action,square enix,2015,3.1,0.88,4900,155000,04-10-2025
+422,Katamari Damacy,NULL,2816,ps2,puzzle,namco bandai games,2004,4.2,0.73,4100,761000,04-10-2025
+423,Katamari Damacy,NULL,2816,ps2,puzzle,namco bandai games,2004,4.2,0.73,4100,761000,04-10-2025
+424,Kid Icarus: Uprising,NULL,1550,3ds,action,nintendo,2012,4.1,1.28,5400,924000,04-10-2025
+425,Killer7,NULL,11240,ps2,action,capcom,2005,4.3,0.09,2800,1300,04-10-2025
+426,Killer7,NULL,8820,gc,action,capcom,2005,4.3,0.15,2800,1300,04-10-2025
+427,Killzone 3,NULL,529,ps3,shooter,sony computer entertainment,2011,3.1,2.79,1300,91000,04-10-2025
+428,Kingdom Hearts,NULL,132,ps2,role-playing,sony computer entertainment,2002,3.6,6.4,12000,1000,04-10-2025
+429,Kingdom Hearts,NULL,132,ps2,role-playing,sony computer entertainment,2002,3.6,6.4,12000,1000,04-10-2025
+430,Kingdom Hearts,NULL,132,ps2,role-playing,sony computer entertainment,2002,3.6,6.4,12000,1000,04-10-2025
+431,Kingdom Hearts II,NULL,256,ps2,role-playing,square enix,2005,4.3,4.33,9600,652000,04-10-2025
+432,Kingdoms of Amalur: Reckoning,NULL,2390,ps3,role-playing,electronic arts,2012,3.2,0.87,1200,106000,04-10-2025
+433,Kingdoms of Amalur: Reckoning,NULL,2351,x360,role-playing,electronic arts,2012,3.2,0.89,1200,106000,04-10-2025
+434,Kingdoms of Amalur: Reckoning,NULL,5788,pc,role-playing,electronic arts,2012,3.2,0.31,1200,106000,04-10-2025
+435,Kirby's Adventure,NULL,1012,nes,platform,nintendo,1993,3.6,1.75,6000,217000,04-10-2025
+436,Kirby's Adventure,NULL,1012,nes,platform,nintendo,1993,3.6,1.75,6000,217000,04-10-2025
+437,Kirby's Dream Land,NULL,192,gb,platform,nintendo,1992,3.2,5.13,5300,178000,04-10-2025
+438,Kirby's Dream Land 2,NULL,672,gb,platform,nintendo,1995,3.2,2.36,2300,146000,04-10-2025
+439,Kirby's Dream Land 3,NULL,5202,snes,platform,nintendo,1997,3.4,0.36,2600,179000,04-10-2025
+440,Kirby Super Star Ultra,NULL,482,ds,platform,nintendo,2008,4.3,2.96,5800,427000,04-10-2025
+441,Kirby Super Star Ultra,NULL,482,ds,platform,nintendo,2008,4.3,2.96,5800,427000,04-10-2025
+442,Kirby: Planet Robobot,NULL,2450,3ds,action,nintendo,2016,4.2,0.85,3600,644000,04-10-2025
+443,Klonoa 2: Lunatea's Veil,NULL,5475,ps2,platform,sony computer entertainment,2001,4.2,0.33,1100,399000,04-10-2025
+444,Klonoa: Door to Phantomile,NULL,8053,ps,platform,sony computer entertainment,1997,4.1,0.18,2200,590000,04-10-2025
+445,Klonoa: Door to Phantomile,NULL,8053,ps,platform,sony computer entertainment,1997,4.1,0.18,2200,590000,04-10-2025
+446,Left 4 Dead,NULL,15092,pc,shooter,electronic arts,2008,3.6,0.02,8600,213000,04-10-2025
+447,Left 4 Dead,NULL,370,x360,shooter,electronic arts,2008,3.6,3.52,8600,213000,04-10-2025
+448,Left 4 Dead 2,NULL,302,x360,shooter,electronic arts,2009,3.9,3.99,19000,358000,04-10-2025
+449,Left 4 Dead 2,NULL,5160,pc,shooter,valve software,2009,3.9,0.37,19000,358000,04-10-2025
+450,Left 4 Dead 2,NULL,302,x360,shooter,electronic arts,2009,3.9,3.99,19000,358000,04-10-2025
+451,Left 4 Dead 2,NULL,5160,pc,shooter,valve software,2009,3.9,0.37,19000,358000,04-10-2025
+452,LEGO Batman 2: DC Super Heroes,NULL,1634,ps3,action,warner bros. interactive entertainment,2012,3.5,1.22,4600,132000,04-10-2025
+453,LEGO Batman 2: DC Super Heroes,NULL,1312,wii,action,warner bros. interactive entertainment,2012,3.5,1.46,4600,132000,04-10-2025
+454,LEGO Batman 2: DC Super Heroes,NULL,5158,psv,action,warner bros. interactive entertainment,2012,3.5,0.37,4600,132000,04-10-2025
+455,LEGO Batman 2: DC Super Heroes,NULL,2771,3ds,action,warner bros. interactive entertainment,2012,3.5,0.74,4600,132000,04-10-2025
+456,LEGO Batman 2: DC Super Heroes,NULL,1077,x360,action,warner bros. interactive entertainment,2012,3.5,1.68,4600,132000,04-10-2025
+457,LEGO Batman 2: DC Super Heroes,NULL,2679,ds,action,warner bros. interactive entertainment,2012,3.5,0.77,4600,132000,04-10-2025
+458,LEGO Batman 3: Beyond Gotham,NULL,2194,x360,action,warner bros. interactive entertainment,2014,3.1,0.95,2900,113000,04-10-2025
+459,LEGO Batman 3: Beyond Gotham,NULL,4029,psv,action,warner bros. interactive entertainment,2014,3.1,0.49,2900,113000,04-10-2025
+460,LEGO Batman 3: Beyond Gotham,NULL,2551,ps3,action,warner bros. interactive entertainment,2014,3.1,0.81,2900,113000,04-10-2025
+461,LEGO Batman 3: Beyond Gotham,NULL,2265,ps4,action,warner bros. interactive entertainment,2014,3.1,0.92,2900,113000,04-10-2025
+462,LEGO Batman 3: Beyond Gotham,NULL,4175,wiiu,action,warner bros. interactive entertainment,2014,3.1,0.47,2900,113000,04-10-2025
+463,LEGO Batman 3: Beyond Gotham,NULL,12334,pc,action,warner bros. interactive entertainment,2014,3.1,0.06,2900,113000,04-10-2025
+464,LEGO Batman 3: Beyond Gotham,NULL,4316,3ds,action,warner bros. interactive entertainment,2014,3.1,0.45,2900,113000,04-10-2025
+465,LEGO Batman 3: Beyond Gotham,NULL,4551,xone,action,warner bros. interactive entertainment,2014,3.1,0.43,2900,113000,04-10-2025
+466,LEGO Harry Potter: Years 1-4,NULL,1168,x360,action,warner bros. interactive entertainment,2010,3.2,1.59,4100,113000,04-10-2025
+467,LEGO Harry Potter: Years 1-4,NULL,1422,ps3,action,warner bros. interactive entertainment,2010,3.2,1.37,4100,113000,04-10-2025
+468,LEGO Harry Potter: Years 1-4,NULL,619,wii,action,warner bros. interactive entertainment,2010,3.2,2.49,4100,113000,04-10-2025
+469,LEGO Harry Potter: Years 1-4,NULL,14963,pc,action,warner bros. interactive entertainment,2010,3.2,0.02,4100,113000,04-10-2025
+470,LEGO Harry Potter: Years 1-4,NULL,673,ds,action,warner bros. interactive entertainment,2010,3.2,2.35,4100,113000,04-10-2025
+471,LEGO Harry Potter: Years 1-4,NULL,2888,psp,action,warner bros. interactive entertainment,2010,3.2,0.71,4100,113000,04-10-2025
+472,LEGO Marvel Super Heroes,NULL,692,x360,action,warner bros. interactive entertainment,2013,3.6,2.3,6000,126000,04-10-2025
+473,LEGO Marvel Super Heroes,NULL,2346,3ds,action,warner bros. interactive entertainment,2013,3.6,0.89,6000,126000,04-10-2025
+474,LEGO Marvel Super Heroes,NULL,4058,ds,action,warner bros. interactive entertainment,2013,3.6,0.49,6000,126000,04-10-2025
+475,LEGO Marvel Super Heroes,NULL,3082,psv,action,warner bros. interactive entertainment,2013,3.6,0.66,6000,126000,04-10-2025
+476,LEGO Marvel Super Heroes,NULL,2776,wiiu,action,warner bros. interactive entertainment,2013,3.6,0.74,6000,126000,04-10-2025
+477,LEGO Marvel Super Heroes,NULL,8097,pc,action,warner bros. interactive entertainment,2013,3.6,0.18,6000,126000,04-10-2025
+478,LEGO Marvel Super Heroes,NULL,2009,xone,action,warner bros. interactive entertainment,2013,3.6,1.04,6000,126000,04-10-2025
+479,LEGO Marvel Super Heroes,NULL,848,ps3,action,warner bros. interactive entertainment,2013,3.6,2,6000,126000,04-10-2025
+480,LEGO Marvel Super Heroes,NULL,1195,ps4,action,warner bros. interactive entertainment,2013,3.6,1.56,6000,126000,04-10-2025
+481,LEGO Marvel Super Heroes,NULL,692,x360,action,warner bros. interactive entertainment,2013,3.6,2.3,6000,126000,04-10-2025
+482,LEGO Marvel Super Heroes,NULL,2346,3ds,action,warner bros. interactive entertainment,2013,3.6,0.89,6000,126000,04-10-2025
+483,LEGO Marvel Super Heroes,NULL,4058,ds,action,warner bros. interactive entertainment,2013,3.6,0.49,6000,126000,04-10-2025
+484,LEGO Marvel Super Heroes,NULL,3082,psv,action,warner bros. interactive entertainment,2013,3.6,0.66,6000,126000,04-10-2025
+485,LEGO Marvel Super Heroes,NULL,2776,wiiu,action,warner bros. interactive entertainment,2013,3.6,0.74,6000,126000,04-10-2025
+486,LEGO Marvel Super Heroes,NULL,8097,pc,action,warner bros. interactive entertainment,2013,3.6,0.18,6000,126000,04-10-2025
+487,LEGO Marvel Super Heroes,NULL,2009,xone,action,warner bros. interactive entertainment,2013,3.6,1.04,6000,126000,04-10-2025
+488,LEGO Marvel Super Heroes,NULL,848,ps3,action,warner bros. interactive entertainment,2013,3.6,2,6000,126000,04-10-2025
+489,LEGO Marvel Super Heroes,NULL,1195,ps4,action,warner bros. interactive entertainment,2013,3.6,1.56,6000,126000,04-10-2025
+490,Lightning Returns: Final Fantasy XIII,NULL,6064,x360,role-playing,square enix,2013,3.1,0.29,1500,426000,04-10-2025
+491,Lightning Returns: Final Fantasy XIII,NULL,1871,ps3,role-playing,square enix,2013,3.1,1.1,1500,426000,04-10-2025
+492,LittleBigPlanet,NULL,149,ps3,platform,sony computer entertainment,2008,3.6,5.92,6000,219000,04-10-2025
+493,Live A Live,NULL,5674,snes,role-playing,squaresoft,1994,4.2,0.32,555000,491000,04-10-2025
+494,Lollipop Chainsaw,NULL,4032,x360,action,warner bros. interactive entertainment,2012,3.4,0.49,1600,695000,04-10-2025
+495,Lollipop Chainsaw,NULL,3013,ps3,action,warner bros. interactive entertainment,2012,3.4,0.67,1600,695000,04-10-2025
+496,Luigi's Mansion: Dark Moon,NULL,235,3ds,action,nintendo,2013,3.3,4.58,4300,418000,04-10-2025
+497,Machinarium,NULL,10176,pc,adventure,daedalic,2009,3.7,0.11,1600,242000,04-10-2025
+498,MadWorld,NULL,2564,wii,action,sega,2009,3.5,0.8,1100,441000,04-10-2025
+499,Mario & Luigi: Bowser's Inside Story,NULL,320,ds,role-playing,nintendo,2009,4.2,3.83,6600,629000,04-10-2025
+500,Mario Kart 64,NULL,64,n64,racing,nintendo,1996,3.5,9.87,9700,194000,04-10-2025
+501,Mario Kart 7,NULL,43,3ds,racing,nintendo,2011,3.5,12.21,10000,141000,04-10-2025
+502,Mario Kart 8,NULL,109,wiiu,racing,nintendo,2014,3.9,6.96,9300,121000,04-10-2025
+503,Mario Kart DS,NULL,12,ds,racing,nintendo,2005,3.8,23.42,15000,159000,04-10-2025
+504,Mario Kart Wii,NULL,3,wii,racing,nintendo,2008,3.9,35.82,19000,168000,04-10-2025
+505,Mario Kart Wii,NULL,3,wii,racing,nintendo,2008,3.9,35.82,19000,168000,04-10-2025
+506,Mario Kart Wii,NULL,3,wii,racing,nintendo,2008,3.9,35.82,19000,168000,04-10-2025
+507,Mario Kart: Double Dash!!,NULL,111,gc,racing,nintendo,2003,3.9,6.95,8400,265000,04-10-2025
+508,Mario Kart: Super Circuit,NULL,164,gba,racing,nintendo,2001,2.8,5.47,3700,101000,04-10-2025
+509,Mario Party 2,NULL,616,n64,misc,nintendo,1999,3.7,2.5,3900,132000,04-10-2025
+510,Mario Party 2,NULL,616,n64,misc,nintendo,1999,3.7,2.5,3900,132000,04-10-2025
+511,Mario Party 3,NULL,904,n64,misc,nintendo,2000,3.7,1.91,2800,123000,04-10-2025
+512,Mario Party 4,NULL,627,gc,misc,nintendo,2002,3.5,2.47,3000,113000,04-10-2025
+513,Mario Power Tennis,NULL,1636,gc,sports,nintendo,2004,3.5,1.22,1900,91000,04-10-2025
+514,Mario Super Sluggers,NULL,894,wii,sports,nintendo,2008,3.7,1.93,1800,81000,04-10-2025
+515,Mario vs. Donkey Kong,NULL,1740,gba,puzzle,nintendo,2004,3.3,1.17,1500,92000,04-10-2025
+516,Mass Effect,NULL,490,x360,role-playing,microsoft game studios,2007,3.8,2.93,10000,774000,04-10-2025
+517,Mass Effect 2,NULL,4869,pc,role-playing,electronic arts,2010,4.3,0.4,9600,645000,04-10-2025
+518,Mass Effect 2,NULL,449,x360,role-playing,electronic arts,2010,4.3,3.11,9600,645000,04-10-2025
+519,Mass Effect 2,NULL,4869,pc,role-playing,electronic arts,2010,4.3,0.4,9600,645000,04-10-2025
+520,Mass Effect 2,NULL,449,x360,role-playing,electronic arts,2010,4.3,3.11,9600,645000,04-10-2025
+521,Mass Effect 3,NULL,1311,ps3,role-playing,electronic arts,2012,3.7,1.46,7300,482000,04-10-2025
+522,Mass Effect 3,NULL,2133,pc,role-playing,electronic arts,2012,3.7,0.97,7300,482000,04-10-2025
+523,Mass Effect 3,NULL,6229,wiiu,role-playing,electronic arts,2012,3.7,0.28,7300,482000,04-10-2025
+524,Mass Effect 3,NULL,458,x360,role-playing,electronic arts,2012,3.7,3.07,7300,482000,04-10-2025
+525,Max Payne,NULL,1648,xb,shooter,take-two interactive,2001,3.9,1.22,6300,742000,04-10-2025
+526,Max Payne,NULL,15142,pc,shooter,take-two interactive,2001,3.9,0.02,6300,742000,04-10-2025
+527,Max Payne,NULL,408,ps2,shooter,take-two interactive,2001,3.9,3.31,6300,742000,04-10-2025
+528,Max Payne,NULL,1648,xb,shooter,take-two interactive,2001,3.9,1.22,6300,742000,04-10-2025
+529,Max Payne,NULL,15142,pc,shooter,take-two interactive,2001,3.9,0.02,6300,742000,04-10-2025
+530,Max Payne,NULL,408,ps2,shooter,take-two interactive,2001,3.9,3.31,6300,742000,04-10-2025
+531,Max Payne 2: The Fall of Max Payne,NULL,3144,xb,shooter,take-two interactive,2003,4.1,0.64,4100,464000,04-10-2025
+532,Max Payne 2: The Fall of Max Payne,NULL,14725,pc,shooter,take-two interactive,2003,4.1,0.03,4100,464000,04-10-2025
+533,Max Payne 2: The Fall of Max Payne,NULL,1464,ps2,shooter,take-two interactive,2003,4.1,1.34,4100,464000,04-10-2025
+534,Max Payne 3,NULL,1103,x360,shooter,take-two interactive,2012,3.7,1.66,5600,518000,04-10-2025
+535,Max Payne 3,NULL,910,ps3,shooter,take-two interactive,2012,3.7,1.9,5600,518000,04-10-2025
+536,Max Payne 3,NULL,4535,pc,shooter,take-two interactive,2012,3.7,0.43,5600,518000,04-10-2025
+537,Mega Man,NULL,2549,nes,platform,capcom,1987,2.8,0.81,5400,152000,04-10-2025
+538,Mega Man 3,NULL,1728,nes,platform,capcom,1990,3.4,1.17,3800,140000,04-10-2025
+539,Mega Man 7,NULL,6194,snes,platform,laguna,1995,3.5,0.28,2400,139000,04-10-2025
+540,Mega Man Legends,NULL,2494,ps,adventure,capcom,1997,3.7,0.83,1400,364000,04-10-2025
+541,Mega Man X,NULL,1753,snes,platform,capcom,1993,4.1,1.16,6900,385000,04-10-2025
+542,Mega Man X,NULL,1753,snes,platform,capcom,1993,4.1,1.16,6900,385000,04-10-2025
+543,Mega Man X5,NULL,2736,ps,platform,capcom,2000,3.2,0.75,2200,126000,04-10-2025
+544,Mega Man X6,NULL,4645,ps,action,capcom,2001,2.3,0.42,1900,119000,04-10-2025
+545,Mega Man X7,NULL,3439,ps2,action,capcom,2003,1.4,0.58,1300,113000,04-10-2025
+546,Mega Man X8,NULL,6018,ps2,platform,capcom,2004,3.3,0.29,1400,140000,04-10-2025
+547,Mega Man Zero 2,NULL,4523,gba,platform,capcom,2003,3.7,0.43,1900,180000,04-10-2025
+548,Mega Man ZX,NULL,5934,ds,platform,capcom,2006,3.7,0.3,1300,159000,04-10-2025
+549,Mega Man ZX Advent,NULL,5305,ds,platform,capcom,2007,3.6,0.35,976000,110000,04-10-2025
+550,Metal Gear Rising: Revengeance,NULL,3994,x360,action,konami digital entertainment,2013,4.1,0.5,14000,2000,04-10-2025
+551,Metal Gear Rising: Revengeance,NULL,1293,ps3,action,konami digital entertainment,2013,4.1,1.47,14000,2000,04-10-2025
+552,Metal Gear Rising: Revengeance,NULL,3994,x360,action,konami digital entertainment,2013,4.1,0.5,14000,2000,04-10-2025
+553,Metal Gear Rising: Revengeance,NULL,1293,ps3,action,konami digital entertainment,2013,4.1,1.47,14000,2000,04-10-2025
+554,Metal Gear Rising: Revengeance,NULL,3994,x360,action,konami digital entertainment,2013,4.1,0.5,14000,2000,04-10-2025
+555,Metal Gear Rising: Revengeance,NULL,1293,ps3,action,konami digital entertainment,2013,4.1,1.47,14000,2000,04-10-2025
+556,Metal Gear Solid,NULL,146,ps,action,konami digital entertainment,1998,4.2,6.03,12000,1600,04-10-2025
+557,Metal Gear Solid 2: Sons of Liberty,NULL,143,ps2,action,konami digital entertainment,2001,4.4,6.05,10000,1400,04-10-2025
+558,Metal Gear Solid 3: Snake Eater,NULL,266,ps2,action,konami digital entertainment,2004,4.5,4.23,9200,1300,04-10-2025
+559,Metal Gear Solid 3: Snake Eater,NULL,266,ps2,action,konami digital entertainment,2004,4.5,4.23,9200,1300,04-10-2025
+560,Metal Gear Solid 3: Snake Eater,NULL,266,ps2,action,konami digital entertainment,2004,4.5,4.23,9200,1300,04-10-2025
+561,Metal Gear Solid 3: Subsistence,NULL,3635,ps2,action,konami digital entertainment,2005,4.6,0.55,3700,639000,04-10-2025
+562,Metal Gear Solid 4: Guns of the Patriots,NULL,145,ps3,action,konami digital entertainment,2008,3.9,6.03,7700,1300,04-10-2025
+563,Metal Gear Solid V: Ground Zeroes,NULL,6120,xone,action,konami digital entertainment,2014,3.3,0.28,9500,549000,04-10-2025
+564,Metal Gear Solid V: Ground Zeroes,NULL,3267,ps3,action,konami digital entertainment,2014,3.3,0.62,9500,549000,04-10-2025
+565,Metal Gear Solid V: Ground Zeroes,NULL,8755,x360,action,konami digital entertainment,2014,3.3,0.15,9500,549000,04-10-2025
+566,Metal Gear Solid V: Ground Zeroes,NULL,1543,ps4,action,konami digital entertainment,2014,3.3,1.28,9500,549000,04-10-2025
+567,Metal Gear Solid V: Ground Zeroes,NULL,6120,xone,action,konami digital entertainment,2014,3.3,0.28,9500,549000,04-10-2025
+568,Metal Gear Solid V: Ground Zeroes,NULL,3267,ps3,action,konami digital entertainment,2014,3.3,0.62,9500,549000,04-10-2025
+569,Metal Gear Solid V: Ground Zeroes,NULL,8755,x360,action,konami digital entertainment,2014,3.3,0.15,9500,549000,04-10-2025
+570,Metal Gear Solid V: Ground Zeroes,NULL,1543,ps4,action,konami digital entertainment,2014,3.3,1.28,9500,549000,04-10-2025
+571,Metal Gear Solid V: The Phantom Pain,NULL,2935,ps3,action,konami digital entertainment,2015,3.8,0.7,14000,1200,04-10-2025
+572,Metal Gear Solid V: The Phantom Pain,NULL,2896,xone,action,konami digital entertainment,2015,3.8,0.71,14000,1200,04-10-2025
+573,Metal Gear Solid V: The Phantom Pain,NULL,11704,pc,action,konami digital entertainment,2015,3.8,0.08,14000,1200,04-10-2025
+574,Metal Gear Solid V: The Phantom Pain,NULL,7376,x360,action,konami digital entertainment,2015,3.8,0.21,14000,1200,04-10-2025
+575,Metal Gear Solid V: The Phantom Pain,NULL,396,ps4,action,konami digital entertainment,2015,3.8,3.38,14000,1200,04-10-2025
+576,Metal Gear Solid: Peace Walker,NULL,800,psp,action,konami digital entertainment,2010,3.5,2.09,4000,566000,04-10-2025
+577,Metal Gear Solid: The Twin Snakes,NULL,4224,gc,action,konami digital entertainment,2004,3.6,0.47,1900,364000,04-10-2025
+578,Metro 2033,NULL,6839,pc,shooter,thq,2010,3.5,0.24,3700,224000,04-10-2025
+579,Metro 2033,NULL,3683,x360,shooter,thq,2010,3.5,0.55,3700,224000,04-10-2025
+580,Metroid Fusion,NULL,1083,gba,action,nintendo,2002,4,1.68,7900,799000,04-10-2025
+581,Metroid II: Return of Samus,NULL,989,gb,adventure,nintendo,1991,3.1,1.76,2100,193000,04-10-2025
+582,Metroid Prime,NULL,520,gc,shooter,nintendo,2002,4.3,2.82,6800,1200,04-10-2025
+583,Metroid Prime 2: Echoes,NULL,1478,gc,shooter,nintendo,2004,4,1.33,3000,588000,04-10-2025
+584,Metroid: Zero Mission,NULL,2476,gba,adventure,nintendo,2004,4,0.84,7500,700000,04-10-2025
+585,Middle-earth: Shadow of Mordor,NULL,5217,pc,action,warner bros. interactive entertainment,2014,3.4,0.36,8400,478000,04-10-2025
+586,Middle-earth: Shadow of Mordor,NULL,472,ps4,action,warner bros. interactive entertainment,2014,3.4,2.99,8400,478000,04-10-2025
+587,Middle-earth: Shadow of Mordor,NULL,3731,x360,action,warner bros. interactive entertainment,2014,3.4,0.54,8400,478000,04-10-2025
+588,Middle-earth: Shadow of Mordor,NULL,1484,xone,action,warner bros. interactive entertainment,2014,3.4,1.32,8400,478000,04-10-2025
+589,Middle-earth: Shadow of Mordor,NULL,3183,ps3,action,warner bros. interactive entertainment,2014,3.4,0.64,8400,478000,04-10-2025
+590,Middle-earth: Shadow of Mordor,NULL,5217,pc,action,warner bros. interactive entertainment,2014,3.4,0.36,8400,478000,04-10-2025
+591,Middle-earth: Shadow of Mordor,NULL,472,ps4,action,warner bros. interactive entertainment,2014,3.4,2.99,8400,478000,04-10-2025
+592,Middle-earth: Shadow of Mordor,NULL,3731,x360,action,warner bros. interactive entertainment,2014,3.4,0.54,8400,478000,04-10-2025
+593,Middle-earth: Shadow of Mordor,NULL,1484,xone,action,warner bros. interactive entertainment,2014,3.4,1.32,8400,478000,04-10-2025
+594,Middle-earth: Shadow of Mordor,NULL,3183,ps3,action,warner bros. interactive entertainment,2014,3.4,0.64,8400,478000,04-10-2025
+595,Mighty No. 9,NULL,15469,wiiu,platform,deep silver,2016,1.6,0.02,907000,71000,04-10-2025
+596,Mighty No. 9,NULL,16565,xone,platform,deep silver,2016,1.6,0.01,907000,71000,04-10-2025
+597,Mighty No. 9,NULL,13437,ps4,platform,deep silver,2016,1.6,0.05,907000,71000,04-10-2025
+598,Mirror's Edge,NULL,1738,x360,platform,electronic arts,2008,3.5,1.17,12000,813000,04-10-2025
+599,Mirror's Edge,NULL,1790,ps3,platform,electronic arts,2008,3.5,1.14,12000,813000,04-10-2025
+600,Monster Hunter 4 Ultimate,NULL,309,3ds,role-playing,nintendo,2014,4.2,3.89,2000,159000,04-10-2025
+601,Mortal Kombat,NULL,786,x360,fighting,warner bros. interactive entertainment,2011,3.6,2.11,6600,120000,04-10-2025
+602,Mortal Kombat,NULL,509,ps3,fighting,warner bros. interactive entertainment,2011,3.6,2.85,6600,120000,04-10-2025
+603,Mortal Kombat 3,NULL,3680,ps,fighting,sony computer entertainment,1995,3.1,0.55,1700,41000,04-10-2025
+604,Mortal Kombat X,NULL,1446,xone,fighting,warner bros. interactive entertainment,2015,3.3,1.35,7100,138000,04-10-2025
+605,Mortal Kombat X,NULL,13025,pc,fighting,warner bros. interactive entertainment,2015,3.3,0.05,7100,138000,04-10-2025
+606,Mortal Kombat X,NULL,554,ps4,fighting,warner bros. interactive entertainment,2015,3.3,2.7,7100,138000,04-10-2025
+607,Mother 3,NULL,4849,gba,role-playing,nintendo,2006,4.5,0.4,5700,1900,04-10-2025
+608,Mount & Blade: Warband,NULL,15436,pc,role-playing,paradox interactive,2010,3.9,0.02,2400,110000,04-10-2025
+609,Naruto Shippuden: Ultimate Ninja Storm 4,NULL,1960,ps4,fighting,namco bandai games,2016,3.5,1.06,4800,134000,04-10-2025
+610,Naruto Shippuden: Ultimate Ninja Storm 4,NULL,6159,xone,fighting,namco bandai games,2016,3.5,0.28,4800,134000,04-10-2025
+611,Naruto: Ultimate Ninja 3,NULL,4481,ps2,fighting,atari,2005,3.5,0.44,1900,32000,04-10-2025
+612,Need for Speed: Hot Pursuit,NULL,731,x360,racing,electronic arts,2010,3.3,2.22,2000,54000,04-10-2025
+613,Need for Speed: Hot Pursuit,NULL,5073,pc,racing,electronic arts,2010,3.3,0.38,2000,54000,04-10-2025
+614,Need for Speed: Hot Pursuit,NULL,523,ps3,racing,electronic arts,2010,3.3,2.81,2000,54000,04-10-2025
+615,Need for Speed: Hot Pursuit,NULL,4126,wii,racing,electronic arts,2010,3.3,0.48,2000,54000,04-10-2025
+616,New Super Mario Bros.,NULL,7,ds,platform,nintendo,2006,3.5,30.01,16000,287000,04-10-2025
+617,New Super Mario Bros.,NULL,7,ds,platform,nintendo,2006,3.5,30.01,16000,287000,04-10-2025
+618,New Super Mario Bros. 2,NULL,65,3ds,platform,nintendo,2012,2.9,9.82,6100,234000,04-10-2025
+619,New Super Mario Bros. Wii,NULL,9,wii,platform,nintendo,2009,3.5,28.62,13000,241000,04-10-2025
+620,New Super Mario Bros. Wii,NULL,9,wii,platform,nintendo,2009,3.5,28.62,13000,241000,04-10-2025
+621,Ni no Kuni: Wrath of the White Witch,NULL,1206,ps3,role-playing,namco bandai games,2011,3.7,1.55,2400,682000,04-10-2025
+622,NieR,NULL,3165,ps3,role-playing,square enix,2010,4.2,0.64,2900,854000,04-10-2025
+623,NieR,NULL,5965,x360,role-playing,square enix,2010,4.2,0.29,2900,854000,04-10-2025
+624,Ninja Gaiden Black,NULL,10917,xb,action,microsoft game studios,2005,4.3,0.09,992000,343000,04-10-2025
+625,No More Heroes,NULL,3527,wii,action,rising star games,2007,4,0.57,5600,1800,04-10-2025
+626,No More Heroes,NULL,3527,wii,action,rising star games,2007,4,0.57,5600,1800,04-10-2025
+627,No More Heroes 2: Desperate Struggle,NULL,4747,wii,action,rising star games,2010,3.5,0.41,3200,855000,04-10-2025
+628,No More Heroes 2: Desperate Struggle,NULL,4747,wii,action,rising star games,2010,3.5,0.41,3200,855000,04-10-2025
+629,Odin Sphere: Leifthrasir,NULL,8089,ps4,role-playing,nippon ichi software,2016,4.1,0.18,895000,349000,04-10-2025
+630,Odin Sphere: Leifthrasir,NULL,12490,ps3,role-playing,nippon ichi software,2016,4.1,0.06,895000,349000,04-10-2025
+631,Odin Sphere: Leifthrasir,NULL,8874,psv,role-playing,nippon ichi software,2016,4.1,0.15,895000,349000,04-10-2025
+632,Overwatch,NULL,1028,ps4,shooter,activision,2016,3.2,1.73,19000,214000,04-10-2025
+633,Overwatch,NULL,4511,pc,shooter,activision,2016,3.2,0.43,19000,214000,04-10-2025
+634,Overwatch,NULL,2446,xone,shooter,activision,2016,3.2,0.85,19000,214000,04-10-2025
+635,Paper Mario: The Thousand-Year Door,NULL,718,gc,role-playing,nintendo,2004,4.4,2.25,6700,1500,04-10-2025
+636,Paper Mario: The Thousand-Year Door,NULL,718,gc,role-playing,nintendo,2004,4.4,2.25,6700,1500,04-10-2025
+637,Parasite Eve II,NULL,3499,ps,role-playing,squaresoft,1999,3.4,0.58,763000,344000,04-10-2025
+638,Persona 2: Eternal Punishment,NULL,5296,ps,role-playing,atlus,2000,4.1,0.35,1600,993000,04-10-2025
+639,Persona 5,NULL,5428,ps4,role-playing,atlus,2016,4.1,0.34,16000,1700,04-10-2025
+640,Persona 5,NULL,10735,ps3,role-playing,unknown,2016,4.1,0.1,16000,1700,04-10-2025
+641,Persona 5,NULL,5428,ps4,role-playing,atlus,2016,4.1,0.34,16000,1700,04-10-2025
+642,Persona 5,NULL,10735,ps3,role-playing,unknown,2016,4.1,0.1,16000,1700,04-10-2025
+643,Persona 5,NULL,5428,ps4,role-playing,atlus,2016,4.1,0.34,16000,1700,04-10-2025
+644,Persona 5,NULL,10735,ps3,role-playing,unknown,2016,4.1,0.1,16000,1700,04-10-2025
+645,Phoenix Wright: Ace Attorney,NULL,2084,ds,adventure,capcom,2005,4.1,0.99,12000,1000,04-10-2025
+646,Phoenix Wright: Ace Attorney,NULL,2084,ds,adventure,capcom,2005,4.1,0.99,12000,1000,04-10-2025
+647,Phoenix Wright: Ace Attorney,NULL,2084,ds,adventure,capcom,2005,4.1,0.99,12000,1000,04-10-2025
+648,Phoenix Wright: Ace Attorney - Dual Destinies,NULL,5023,3ds,adventure,capcom,2013,3.4,0.38,3300,497000,04-10-2025
+649,Phoenix Wright: Ace Attorney Trilogy,NULL,15832,3ds,adventure,capcom,2014,4.3,0.02,4000,779000,04-10-2025
+650,Phoenix Wright: Ace Attorney Trilogy,NULL,15832,3ds,adventure,capcom,2014,4.3,0.02,4000,779000,04-10-2025
+651,Pikmin 2,NULL,1671,gc,strategy,nintendo,2004,4.1,1.2,2700,500000,04-10-2025
+652,Pikmin 3,NULL,1845,wiiu,strategy,nintendo,2013,4,1.11,2700,385000,04-10-2025
+653,Pikmin 3,NULL,1845,wiiu,strategy,nintendo,2013,4,1.11,2700,385000,04-10-2025
+654,Plants vs. Zombies,NULL,13034,pc,strategy,popcap games,2009,3.7,0.05,14000,82000,04-10-2025
+655,PlayStation All-Stars Battle Royale,NULL,3852,psv,action,sony computer entertainment,2012,2.4,0.52,2600,78000,04-10-2025
+656,PlayStation All-Stars Battle Royale,NULL,2153,ps3,action,sony computer entertainment,2012,2.4,0.96,2600,78000,04-10-2025
+657,Pokémon Mystery Dungeon: Blue Rescue Team,NULL,826,ds,role-playing,nintendo,2005,3.7,2.05,3800,154000,04-10-2025
+658,Portal 2,NULL,2701,pc,shooter,valve software,2011,4.4,0.76,29000,1200,04-10-2025
+659,Portal 2,NULL,791,x360,shooter,valve software,2011,4.4,2.1,29000,1200,04-10-2025
+660,Portal 2,NULL,1018,ps3,shooter,valve,2011,4.4,1.74,29000,1200,04-10-2025
+661,Portal 2,NULL,2701,pc,shooter,valve software,2011,4.4,0.76,29000,1200,04-10-2025
+662,Portal 2,NULL,791,x360,shooter,valve software,2011,4.4,2.1,29000,1200,04-10-2025
+663,Portal 2,NULL,1018,ps3,shooter,valve,2011,4.4,1.74,29000,1200,04-10-2025
+664,Portal 2,NULL,2701,pc,shooter,valve software,2011,4.4,0.76,29000,1200,04-10-2025
+665,Portal 2,NULL,791,x360,shooter,valve software,2011,4.4,2.1,29000,1200,04-10-2025
+666,Portal 2,NULL,1018,ps3,shooter,valve,2011,4.4,1.74,29000,1200,04-10-2025
+667,Prince of Persia,NULL,1896,ps3,action,ubisoft,2008,3,1.08,2500,206000,04-10-2025
+668,Prince of Persia,NULL,2044,x360,action,ubisoft,2008,3,1.01,2500,206000,04-10-2025
+669,Prince of Persia: The Sands of Time,NULL,2216,xb,action,ubisoft,2003,3.6,0.94,5500,421000,04-10-2025
+670,Prince of Persia: The Sands of Time,NULL,728,ps2,action,ubisoft,2003,3.6,2.22,5500,421000,04-10-2025
+671,Prince of Persia: The Sands of Time,NULL,5630,gc,action,ubisoft,2003,3.6,0.32,5500,421000,04-10-2025
+672,Prince of Persia: The Sands of Time,NULL,8814,gba,action,ubisoft,2003,3.6,0.15,5500,421000,04-10-2025
+673,Prince of Persia: Warrior Within,NULL,1122,ps2,action,ubisoft,2004,3.5,1.64,2800,220000,04-10-2025
+674,Prince of Persia: Warrior Within,NULL,2582,xb,action,ubisoft,2004,3.5,0.8,2800,220000,04-10-2025
+675,Prince of Persia: Warrior Within,NULL,7718,gc,action,ubisoft,2004,3.5,0.2,2800,220000,04-10-2025
+676,Professor Layton and the Curious Village,NULL,178,ds,puzzle,nintendo,2007,3.7,5.26,4200,407000,04-10-2025
+677,Professor Layton and the Unwound Future,NULL,400,ds,puzzle,nintendo,2008,4.3,3.36,2400,388000,04-10-2025
+678,Psychonauts,NULL,10887,ps2,platform,majesco entertainment,2005,4,0.09,7100,1200,04-10-2025
+679,Psychonauts,NULL,9883,xb,platform,thq,2005,4,0.12,7100,1200,04-10-2025
+680,Psychonauts,NULL,10887,ps2,platform,majesco entertainment,2005,4,0.09,7100,1200,04-10-2025
+681,Psychonauts,NULL,9883,xb,platform,thq,2005,4,0.12,7100,1200,04-10-2025
+682,Puyo Puyo Tetris,NULL,13526,ps3,puzzle,sega,2014,3.8,0.04,3100,198000,04-10-2025
+683,Puyo Puyo Tetris,NULL,10059,3ds,puzzle,sega,2014,3.8,0.11,3100,198000,04-10-2025
+684,Puyo Puyo Tetris,NULL,13366,psv,puzzle,sega,2014,3.8,0.05,3100,198000,04-10-2025
+685,Puyo Puyo Tetris,NULL,15828,wiiu,puzzle,sega,2014,3.8,0.02,3100,198000,04-10-2025
+686,Ratchet & Clank: Size Matters,NULL,327,psp,platform,sony computer entertainment,2007,2.8,3.77,1500,115000,04-10-2025
+687,Rayman Legends,NULL,3071,ps3,platform,ubisoft,2013,4,0.66,9800,643000,04-10-2025
+688,Rayman Legends,NULL,4297,x360,platform,ubisoft,2013,4,0.46,9800,643000,04-10-2025
+689,Rayman Legends,NULL,2985,wiiu,platform,ubisoft,2013,4,0.68,9800,643000,04-10-2025
+690,Rayman Origins,NULL,3457,wii,platform,ubisoft,2011,3.8,0.58,6200,417000,04-10-2025
+691,Rayman Origins,NULL,2601,x360,platform,ubisoft,2011,3.8,0.79,6200,417000,04-10-2025
+692,Rayman Origins,NULL,2018,ps3,platform,ubisoft,2011,3.8,1.03,6200,417000,04-10-2025
+693,Rayman Raving Rabbids,NULL,16050,pc,misc,ubisoft,2006,2.7,0.01,2700,63000,04-10-2025
+694,Rayman Raving Rabbids,NULL,1342,wii,misc,ubisoft,2006,2.7,1.44,2700,63000,04-10-2025
+695,Red Dead Redemption,NULL,135,x360,action,take-two interactive,2010,4.2,6.34,13000,1600,04-10-2025
+696,Red Dead Redemption,NULL,124,ps3,action,take-two interactive,2010,4.2,6.6,13000,1600,04-10-2025
+697,Red Dead Redemption,NULL,135,x360,action,take-two interactive,2010,4.2,6.34,13000,1600,04-10-2025
+698,Red Dead Redemption,NULL,124,ps3,action,take-two interactive,2010,4.2,6.6,13000,1600,04-10-2025
+699,Red Dead Redemption,NULL,135,x360,action,take-two interactive,2010,4.2,6.34,13000,1600,04-10-2025
+700,Red Dead Redemption,NULL,124,ps3,action,take-two interactive,2010,4.2,6.6,13000,1600,04-10-2025
+701,Remember Me,NULL,8050,x360,action,capcom,2013,2.9,0.18,1600,239000,04-10-2025
+702,Remember Me,NULL,12498,pc,action,capcom,2013,2.9,0.06,1600,239000,04-10-2025
+703,Remember Me,NULL,5275,ps3,action,capcom,2013,2.9,0.35,1600,239000,04-10-2025
+704,Resident Evil,NULL,202,ps,action,virgin interactive,1996,3.7,5.05,3400,323000,04-10-2025
+705,Resident Evil 2,NULL,152,ps,action,virgin interactive,1998,4.2,5.82,5500,597000,04-10-2025
+706,Resident Evil 2,NULL,152,ps,action,virgin interactive,1998,4.2,5.82,5500,597000,04-10-2025
+707,Resident Evil 3: Nemesis,NULL,333,ps,action,eidos interactive,1999,3.8,3.72,4300,496000,04-10-2025
+708,Resident Evil 4,NULL,351,ps2,action,capcom,2005,4.3,3.62,14000,1200,04-10-2025
+709,Resident Evil 4,NULL,1072,gc,action,capcom,2005,4.3,1.69,14000,1200,04-10-2025
+710,Resident Evil 4,NULL,351,ps2,action,capcom,2005,4.3,3.62,14000,1200,04-10-2025
+711,Resident Evil 4,NULL,1072,gc,action,capcom,2005,4.3,1.69,14000,1200,04-10-2025
+712,Resident Evil 4,NULL,351,ps2,action,capcom,2005,4.3,3.62,14000,1200,04-10-2025
+713,Resident Evil 4,NULL,1072,gc,action,capcom,2005,4.3,1.69,14000,1200,04-10-2025
+714,Resident Evil 5,NULL,12096,pc,action,capcom,2009,3.1,0.07,10000,561000,04-10-2025
+715,Resident Evil 5,NULL,197,ps3,action,capcom,2009,3.1,5.11,10000,561000,04-10-2025
+716,Resident Evil 5,NULL,372,x360,action,capcom,2009,3.1,3.51,10000,561000,04-10-2025
+717,Resident Evil 6,NULL,859,x360,shooter,capcom,2012,2.5,1.98,7800,552000,04-10-2025
+718,Resident Evil 6,NULL,439,ps3,shooter,capcom,2012,2.5,3.15,7800,552000,04-10-2025
+719,Resident Evil 6,NULL,13501,pc,shooter,capcom,2012,2.5,0.04,7800,552000,04-10-2025
+720,Resident Evil 6,NULL,859,x360,shooter,capcom,2012,2.5,1.98,7800,552000,04-10-2025
+721,Resident Evil 6,NULL,439,ps3,shooter,capcom,2012,2.5,3.15,7800,552000,04-10-2025
+722,Resident Evil 6,NULL,13501,pc,shooter,capcom,2012,2.5,0.04,7800,552000,04-10-2025
+723,Resident Evil: Revelations,NULL,2364,3ds,action,capcom,2012,3.2,0.88,2900,297000,04-10-2025
+724,Resistance: Fall of Man,NULL,254,ps3,shooter,sony computer entertainment,2006,3,4.35,1300,119000,04-10-2025
+725,Rock Band 2,NULL,3402,ps2,misc,mtv games,2008,4,0.59,2000,29000,04-10-2025
+726,Rock Band 2,NULL,735,x360,misc,electronic arts,2008,4,2.2,2000,29000,04-10-2025
+727,Rock Band 2,NULL,2025,wii,misc,mtv games,2008,4,1.03,2000,29000,04-10-2025
+728,Rock Band 2,NULL,1266,ps3,misc,mtv games,2008,4,1.5,2000,29000,04-10-2025
+729,Rule of Rose,NULL,15135,ps2,action,505 games,2006,3.8,0.02,727000,770000,04-10-2025
+730,S.T.A.L.K.E.R.: Shadow of Chernobyl,NULL,12624,pc,shooter,thq,2007,3.9,0.06,2500,583000,04-10-2025
+731,Saints Row 2,NULL,1061,ps3,action,thq,2008,3.7,1.69,3600,191000,04-10-2025
+732,Saints Row 2,NULL,462,x360,action,thq,2008,3.7,3.03,3600,191000,04-10-2025
+733,Saints Row IV,NULL,1519,ps3,action,deep silver,2013,3.1,1.3,7200,176000,04-10-2025
+734,Saints Row IV,NULL,1062,x360,action,deep silver,2013,3.1,1.69,7200,176000,04-10-2025
+735,Saints Row IV,NULL,7874,pc,action,deep silver,2013,3.1,0.19,7200,176000,04-10-2025
+736,Saints Row: Gat Out of Hell,NULL,13287,ps4,action,deep silver,2015,2.4,0.05,2000,75000,04-10-2025
+737,Saints Row: The Third,NULL,544,x360,action,thq,2011,3.4,2.77,9400,210000,04-10-2025
+738,Saints Row: The Third,NULL,5059,pc,action,thq,2011,3.4,0.38,9400,210000,04-10-2025
+739,Saints Row: The Third,NULL,617,ps3,action,thq,2011,3.4,2.49,9400,210000,04-10-2025
+740,Scribblenauts,NULL,729,ds,puzzle,warner bros. interactive entertainment,2009,3.2,2.22,3200,80000,04-10-2025
+741,Secret of Mana,NULL,950,snes,role-playing,squaresoft,1993,3.3,1.83,1900,511000,04-10-2025
+742,Shadow of the Colossus,NULL,1786,ps2,action,sony computer entertainment,2005,4.4,1.14,10000,1700,04-10-2025
+743,Shadow of the Colossus,NULL,1786,ps2,action,sony computer entertainment,2005,4.4,1.14,10000,1700,04-10-2025
+744,Shadow of the Colossus,NULL,1786,ps2,action,sony computer entertainment,2005,4.4,1.14,10000,1700,04-10-2025
+745,Shadow the Hedgehog,NULL,2103,gc,platform,sega,2005,2.4,0.99,5600,423000,04-10-2025
+746,Shadow the Hedgehog,NULL,3339,ps2,platform,sega,2005,2.4,0.6,5600,423000,04-10-2025
+747,Shadow the Hedgehog,NULL,8107,xb,platform,sega,2005,2.4,0.18,5600,423000,04-10-2025
+748,Shadow the Hedgehog,NULL,2103,gc,platform,sega,2005,2.4,0.99,5600,423000,04-10-2025
+749,Shadow the Hedgehog,NULL,3339,ps2,platform,sega,2005,2.4,0.6,5600,423000,04-10-2025
+750,Shadow the Hedgehog,NULL,8107,xb,platform,sega,2005,2.4,0.18,5600,423000,04-10-2025
+751,Shenmue,NULL,1711,dc,adventure,sega,1999,3.8,1.18,1600,494000,04-10-2025
+752,Shin Megami Tensei IV,NULL,3506,3ds,role-playing,atlus,2013,4.1,0.57,4300,1100,04-10-2025
+753,Shin Megami Tensei: Devil Summoner - Soul Hackers,NULL,5780,sat,role-playing,atlus,1997,3.8,0.31,1200,651000,04-10-2025
+754,Shin Megami Tensei: Devil Survivor,NULL,6371,ds,role-playing,atlus,2009,3.9,0.27,1000,343000,04-10-2025
+755,Shin Megami Tensei: Digital Devil Saga,NULL,9543,ps2,role-playing,ghostlight,2004,4.1,0.13,2000,916000,04-10-2025
+756,Shin Megami Tensei: Nocturne,NULL,4984,ps2,role-playing,ghostlight,2003,4.2,0.38,4100,1300,04-10-2025
+757,Shin Megami Tensei: Persona,NULL,7276,psp,role-playing,atlus,2009,2.9,0.22,2500,797000,04-10-2025
+758,Sid Meier's Civilization V,NULL,1071,pc,strategy,take-two interactive,2010,3.9,1.69,5400,140000,04-10-2025
+759,Silent Hill,NULL,1156,ps,action,konami digital entertainment,1999,4.1,1.6,6800,1600,04-10-2025
+760,Silent Hill,NULL,1156,ps,action,konami digital entertainment,1999,4.1,1.6,6800,1600,04-10-2025
+761,Silent Hill 2,NULL,1551,ps2,action,konami digital entertainment,2001,4.5,1.28,8600,2100,04-10-2025
+762,Silent Hill 2,NULL,1551,ps2,action,konami digital entertainment,2001,4.5,1.28,8600,2100,04-10-2025
+763,Silent Hill 2,NULL,1551,ps2,action,konami digital entertainment,2001,4.5,1.28,8600,2100,04-10-2025
+764,Silent Hill 2: Restless Dreams,NULL,6203,xb,action,konami digital entertainment,2001,4.5,0.28,514000,81000,04-10-2025
+765,Silent Hill 3,NULL,2875,ps2,action,konami digital entertainment,2003,4.2,0.71,4900,1400,04-10-2025
+766,Sin and Punishment,NULL,9481,n64,shooter,nintendo,2000,4,0.13,1100,550000,04-10-2025
+767,Skate 3,NULL,560,x360,sports,electronic arts,2010,4,2.68,4100,188000,04-10-2025
+768,Skate 3,NULL,809,ps3,sports,electronic arts,2010,4,2.08,4100,188000,04-10-2025
+769,Sly Cooper and the Thievius Raccoonus,NULL,1657,ps2,platform,sony computer entertainment,2002,3.7,1.21,3700,391000,04-10-2025
+770,Sonic Advance,NULL,722,gba,platform,sega,2001,3.2,2.24,4000,212000,04-10-2025
+771,Sonic Adventure 2,NULL,9844,dc,platform,sega,2001,3.6,0.12,5100,342000,04-10-2025
+772,Sonic and the Secret Rings,NULL,543,wii,platform,sega,2007,1.9,2.77,3100,160000,04-10-2025
+773,Sonic and the Secret Rings,NULL,543,wii,platform,sega,2007,1.9,2.77,3100,160000,04-10-2025
+774,Sonic CD,NULL,1263,scd,platform,sega,1993,3.4,1.5,4900,223000,04-10-2025
+775,Sonic Colors,NULL,1021,wii,platform,sega,2010,3.4,1.74,5100,342000,04-10-2025
+776,Sonic Colors,NULL,1420,ds,platform,sega,2010,3.4,1.37,5100,342000,04-10-2025
+777,Sonic Colors,NULL,1021,wii,platform,sega,2010,3.4,1.74,5100,342000,04-10-2025
+778,Sonic Colors,NULL,1420,ds,platform,sega,2010,3.4,1.37,5100,342000,04-10-2025
+779,Sonic Generations,NULL,10268,pc,platform,sega,2011,3.8,0.11,9900,480000,04-10-2025
+780,Sonic Generations,NULL,2046,3ds,platform,sega,2011,3.8,1.01,9900,480000,04-10-2025
+781,Sonic Generations,NULL,1129,ps3,platform,sega,2011,3.8,1.63,9900,480000,04-10-2025
+782,Sonic Generations,NULL,1361,x360,platform,sega,2011,3.8,1.42,9900,480000,04-10-2025
+783,Sonic Lost World,NULL,4858,wiiu,platform,sega,2013,2.5,0.4,2500,214000,04-10-2025
+784,Sonic Lost World,NULL,4034,3ds,platform,sega,2013,2.5,0.49,2500,214000,04-10-2025
+785,Sonic Rush,NULL,438,ds,platform,sega,2005,3.6,3.15,4600,292000,04-10-2025
+786,Sonic Rush Adventure,NULL,1726,ds,platform,sega,2007,3.5,1.17,1900,208000,04-10-2025
+787,Sonic the Hedgehog,NULL,255,gen,platform,sega,1991,3.1,4.34,12000,243000,04-10-2025
+788,Sonic the Hedgehog,NULL,255,gen,platform,sega,1991,3.1,4.34,12000,243000,04-10-2025
+789,Sonic the Hedgehog,NULL,255,gen,platform,sega,1991,3.1,4.34,12000,243000,04-10-2025
+790,Sonic the Hedgehog 2,NULL,144,gen,platform,sega,1992,2.8,6.03,1400,45000,04-10-2025
+791,Sonic the Hedgehog 2,NULL,144,gen,platform,sega,1992,3.7,6.03,10000,228000,04-10-2025
+792,Sonic Unleashed,NULL,2016,ps3,platform,sega,2008,3.3,1.03,6500,476000,04-10-2025
+793,Sonic Unleashed,NULL,2688,ps2,platform,sega,2008,3.3,0.76,6500,476000,04-10-2025
+794,Sonic Unleashed,NULL,2161,x360,platform,sega,2008,3.3,0.96,6500,476000,04-10-2025
+795,Sonic Unleashed,NULL,740,wii,platform,sega,2008,3.3,2.2,6500,476000,04-10-2025
+796,Splatoon,NULL,236,wiiu,shooter,nintendo,2015,3.7,4.57,6100,227000,04-10-2025
+797,SpongeBob SquarePants: Battle For Bikini Bottom,NULL,1098,ps2,platform,thq,2003,3.8,1.67,3400,216000,04-10-2025
+798,SpongeBob SquarePants: Battle For Bikini Bottom,NULL,3547,xb,platform,thq,2003,3.8,0.57,3400,216000,04-10-2025
+799,SpongeBob SquarePants: Battle For Bikini Bottom,NULL,1623,gba,platform,thq,2003,3.8,1.23,3400,216000,04-10-2025
+800,SpongeBob SquarePants: Battle For Bikini Bottom,NULL,2178,gc,platform,thq,2003,3.8,0.95,3400,216000,04-10-2025
+801,Spore,NULL,1719,pc,strategy,electronic arts,2008,3.3,1.17,6000,170000,04-10-2025
+802,Star Wars: Battlefront,NULL,7613,pc,shooter,lucasarts,2004,3.5,0.2,4100,109000,04-10-2025
+803,Star Wars: Battlefront,NULL,1007,xb,shooter,activision,2004,3.5,1.75,4100,109000,04-10-2025
+804,Star Wars: Battlefront,NULL,353,ps2,shooter,lucasarts,2004,3.5,3.61,4100,109000,04-10-2025
+805,Star Wars: Battlefront II,NULL,1629,psp,shooter,lucasarts,2005,4,1.23,7700,189000,04-10-2025
+806,Star Wars: Battlefront II,NULL,8188,pc,shooter,lucasarts,2005,4,0.18,7700,189000,04-10-2025
+807,Star Wars: Battlefront II,NULL,358,ps2,shooter,lucasarts,2005,4,3.59,7700,189000,04-10-2025
+808,Star Wars: Battlefront II,NULL,1090,xb,shooter,activision,2005,4,1.67,7700,189000,04-10-2025
+809,Star Wars: Knights of the Old Republic,NULL,9078,pc,role-playing,lucasarts,2003,4.2,0.14,5300,705000,04-10-2025
+810,Star Wars: Knights of the Old Republic,NULL,744,xb,role-playing,activision,2003,4.2,2.19,5300,705000,04-10-2025
+811,Star Wars: Knights of the Old Republic,NULL,9078,pc,role-playing,lucasarts,2003,4.2,0.14,5300,705000,04-10-2025
+812,Star Wars: Knights of the Old Republic,NULL,744,xb,role-playing,activision,2003,4.2,2.19,5300,705000,04-10-2025
+813,Star Wars: The Force Unleashed,NULL,704,ps3,action,lucasarts,2008,3.2,2.28,7400,350000,04-10-2025
+814,Star Wars: The Force Unleashed,NULL,526,x360,action,lucasarts,2008,3.2,2.8,7400,350000,04-10-2025
+815,Star Wars: The Force Unleashed,NULL,1872,psp,action,lucasarts,2008,3.2,1.09,7400,350000,04-10-2025
+816,Star Wars: The Force Unleashed,NULL,1586,ps2,action,lucasarts,2008,3.2,1.25,7400,350000,04-10-2025
+817,Star Wars: The Force Unleashed,NULL,905,wii,action,lucasarts,2008,3.2,1.91,7400,350000,04-10-2025
+818,Star Wars: The Force Unleashed,NULL,2312,ds,action,lucasarts,2008,3.2,0.9,7400,350000,04-10-2025
+819,Star Wars: The Force Unleashed II,NULL,6975,ds,action,lucasarts,2010,2.8,0.23,4100,268000,04-10-2025
+820,Star Wars: The Force Unleashed II,NULL,1205,ps3,action,lucasarts,2010,2.8,1.55,4100,268000,04-10-2025
+821,Star Wars: The Force Unleashed II,NULL,1295,x360,action,lucasarts,2010,2.8,1.47,4100,268000,04-10-2025
+822,Star Wars: The Force Unleashed II,NULL,2590,wii,action,lucasarts,2010,2.8,0.8,4100,268000,04-10-2025
+823,Star Wars: The Force Unleashed II,NULL,14532,pc,action,lucasarts,2010,2.8,0.03,4100,268000,04-10-2025
+824,Street Fighter V,NULL,2513,ps4,fighting,capcom,2016,3,0.82,5000,166000,04-10-2025
+825,Street Fighter V,NULL,13046,pc,fighting,capcom,2016,3,0.05,5000,166000,04-10-2025
+826,Suikoden,NULL,3354,ps,role-playing,konami digital entertainment,1995,3.6,0.6,933000,360000,04-10-2025
+827,Suikoden II,NULL,2995,ps,role-playing,konami digital entertainment,1998,4.4,0.68,1100,653000,04-10-2025
+828,Sunset Overdrive,NULL,1838,xone,shooter,microsoft game studios,2014,3.5,1.11,3600,459000,04-10-2025
+829,Super Castlevania IV,NULL,3206,snes,platform,konami digital entertainment,1991,3.7,0.63,3700,271000,04-10-2025
+830,Super Mario 3D Land,NULL,54,3ds,platform,nintendo,2011,3.5,10.79,12000,461000,04-10-2025
+831,Super Mario 3D World,NULL,262,wiiu,platform,nintendo,2013,3.9,4.25,9600,432000,04-10-2025
+832,Super Mario 3D World,NULL,262,wiiu,platform,nintendo,2013,3.9,4.25,9600,432000,04-10-2025
+833,Super Mario 64,NULL,47,n64,platform,nintendo,1996,4.1,11.89,21000,775000,04-10-2025
+834,Super Mario 64,NULL,47,n64,platform,nintendo,1996,4.1,11.89,21000,775000,04-10-2025
+835,Super Mario 64,NULL,47,n64,platform,nintendo,1996,4.1,11.89,21000,775000,04-10-2025
+836,Super Mario Bros.,NULL,2,nes,platform,nintendo,1985,3.5,40.24,18000,237000,04-10-2025
+837,Super Mario Bros. 2,NULL,97,nes,platform,nintendo,1988,3.1,7.46,8400,189000,04-10-2025
+838,Super Mario Bros. 3,NULL,23,nes,platform,nintendo,1988,4,17.28,14000,362000,04-10-2025
+839,Super Mario Bros. 3,NULL,23,nes,platform,nintendo,1988,4,17.28,14000,362000,04-10-2025
+840,Super Mario Bros. 3,NULL,23,nes,platform,nintendo,1988,4,17.28,14000,362000,04-10-2025
+841,Super Mario Galaxy,NULL,49,wii,platform,nintendo,2007,4.3,11.52,21000,1200,04-10-2025
+842,Super Mario Galaxy,NULL,49,wii,platform,nintendo,2007,4.3,11.52,21000,1200,04-10-2025
+843,Super Mario Galaxy,NULL,49,wii,platform,nintendo,2007,4.3,11.52,21000,1200,04-10-2025
+844,Super Mario Galaxy 2,NULL,92,wii,platform,nintendo,2010,4.3,7.69,13000,1300,04-10-2025
+845,Super Mario Galaxy 2,NULL,92,wii,platform,nintendo,2010,4.3,7.69,13000,1300,04-10-2025
+846,Super Mario Galaxy 2,NULL,92,wii,platform,nintendo,2010,4.3,7.69,13000,1300,04-10-2025
+847,Super Mario RPG: Legend of the Seven Stars,NULL,764,snes,role-playing,nintendo,1996,4,2.14,4400,858000,04-10-2025
+848,Super Mario RPG: Legend of the Seven Stars,NULL,764,snes,role-playing,nintendo,1996,4,2.14,4400,858000,04-10-2025
+849,Super Mario Sunshine,NULL,136,gc,platform,nintendo,2002,3.7,6.31,14000,1000,04-10-2025
+850,Super Mario World,NULL,19,snes,platform,nintendo,1990,4.2,20.61,18000,460000,04-10-2025
+851,Super Mario World 2: Yoshi's Island,NULL,283,snes,platform,nintendo,1995,4.1,4.12,7100,360000,04-10-2025
+852,Super Metroid,NULL,1362,snes,action,nintendo,1994,4.3,1.42,11000,907000,04-10-2025
+853,Super Paper Mario,NULL,330,wii,platform,nintendo,2007,3.8,3.76,6200,572000,04-10-2025
+854,Super Smash Bros.,NULL,158,n64,fighting,nintendo,1999,3.4,5.55,9800,207000,04-10-2025
+855,Super Smash Bros.,NULL,158,n64,fighting,nintendo,1999,3.4,5.55,9800,207000,04-10-2025
+856,Super Smash Bros. Brawl,NULL,40,wii,fighting,nintendo,2008,3.8,13.04,19000,250000,04-10-2025
+857,Super Smash Bros. Brawl,NULL,40,wii,fighting,nintendo,2008,3.8,13.04,19000,250000,04-10-2025
+858,Superman: The New Superman Adventures,NULL,4731,n64,action,titus,1999,0.7,0.41,859000,55000,04-10-2025
+859,Tales of Berseria,NULL,10233,ps3,role-playing,namco bandai games,2016,3.7,0.11,3300,657000,04-10-2025
+860,Tales of Berseria,NULL,7248,ps4,role-playing,namco bandai games,2016,3.7,0.22,3300,657000,04-10-2025
+861,Tales of Symphonia,NULL,1868,gc,role-playing,nintendo,2003,3.9,1.1,2800,572000,04-10-2025
+862,Tales of Vesperia,NULL,2752,x360,role-playing,atari,2008,3.9,0.75,1100,199000,04-10-2025
+863,Tales of Zestiria,NULL,5026,ps4,role-playing,namco bandai games,2015,2.7,0.38,1700,264000,04-10-2025
+864,Tales of Zestiria,NULL,3421,ps3,role-playing,namco bandai games,2015,2.7,0.59,1700,264000,04-10-2025
+865,Terraria,NULL,8846,pc,action,unknown,2011,4,0.15,18000,593000,04-10-2025
+866,Tetris,NULL,6,gb,puzzle,nintendo,1989,4,30.26,2500,21000,04-10-2025
+867,Tetris,NULL,6,gb,puzzle,nintendo,1989,4.1,30.26,9600,66000,04-10-2025
+868,Tetris,NULL,6,gb,puzzle,nintendo,1989,4.1,30.26,9600,66000,04-10-2025
+869,The Elder Scrolls III: Morrowind,NULL,508,xb,role-playing,ubisoft,2002,4,2.86,3700,487000,04-10-2025
+870,The Elder Scrolls IV: Oblivion,NULL,251,x360,role-playing,take-two interactive,2006,3.7,4.39,8100,563000,04-10-2025
+871,The Elder Scrolls IV: Oblivion,NULL,6507,pc,role-playing,take-two interactive,2006,3.7,0.26,8100,563000,04-10-2025
+872,The Elder Scrolls V: Skyrim,NULL,311,pc,role-playing,bethesda softworks,2011,3.7,3.88,22000,1000,04-10-2025
+873,The Elder Scrolls V: Skyrim,NULL,127,ps3,role-playing,bethesda softworks,2011,3.7,6.56,22000,1000,04-10-2025
+874,The Elder Scrolls V: Skyrim,NULL,76,x360,role-playing,bethesda softworks,2011,3.7,8.84,22000,1000,04-10-2025
+875,The Elder Scrolls V: Skyrim,NULL,311,pc,role-playing,bethesda softworks,2011,3.7,3.88,22000,1000,04-10-2025
+876,The Elder Scrolls V: Skyrim,NULL,127,ps3,role-playing,bethesda softworks,2011,3.7,6.56,22000,1000,04-10-2025
+877,The Elder Scrolls V: Skyrim,NULL,76,x360,role-playing,bethesda softworks,2011,3.7,8.84,22000,1000,04-10-2025
+878,The Elder Scrolls V: Skyrim,NULL,311,pc,role-playing,bethesda softworks,2011,3.7,3.88,22000,1000,04-10-2025
+879,The Elder Scrolls V: Skyrim,NULL,127,ps3,role-playing,bethesda softworks,2011,3.7,6.56,22000,1000,04-10-2025
+880,The Elder Scrolls V: Skyrim,NULL,76,x360,role-playing,bethesda softworks,2011,3.7,8.84,22000,1000,04-10-2025
+881,The Evil Within,NULL,6300,pc,action,bethesda softworks,2014,3.4,0.27,4800,822000,04-10-2025
+882,The Evil Within,NULL,2267,ps3,action,bethesda softworks,2014,3.4,0.92,4800,822000,04-10-2025
+883,The Evil Within,NULL,4014,x360,action,bethesda softworks,2014,3.4,0.5,4800,822000,04-10-2025
+884,The Evil Within,NULL,959,ps4,action,bethesda softworks,2014,3.4,1.81,4800,822000,04-10-2025
+885,The Evil Within,NULL,3100,xone,action,bethesda softworks,2014,3.4,0.65,4800,822000,04-10-2025
+886,The Godfather,NULL,1885,ps2,action,electronic arts,2006,3.6,1.09,1100,136000,04-10-2025
+887,The Last of Us,NULL,147,ps3,action,sony computer entertainment europe,2013,4.2,5.99,17000,1400,04-10-2025
+888,The Legend of Heroes: Trails of Cold Steel,NULL,7212,ps3,role-playing,nippon ichi software,2013,3.7,0.22,2100,461000,04-10-2025
+889,The Legend of Heroes: Trails of Cold Steel,NULL,5805,psv,role-playing,nippon ichi software,2013,3.7,0.31,2100,461000,04-10-2025
+890,The Legend of Heroes: Trails of Cold Steel II,NULL,8852,psv,role-playing,nippon ichi software,2014,3.7,0.15,1700,319000,04-10-2025
+891,The Legend of Heroes: Trails of Cold Steel II,NULL,9799,ps3,role-playing,nippon ichi software,2014,3.7,0.12,1700,319000,04-10-2025
+892,The Legend of Zelda,NULL,128,nes,action,nintendo,1986,3.2,6.51,9300,463000,04-10-2025
+893,The Legend of Zelda,NULL,128,nes,action,nintendo,1986,3.2,6.51,9300,463000,04-10-2025
+894,The Legend of Zelda: A Link Between Worlds,NULL,455,3ds,action,nintendo,2013,4.1,3.07,10000,1100,04-10-2025
+895,The Legend of Zelda: A Link to the Past,NULL,232,snes,action,nintendo,1991,4.1,4.61,13000,911000,04-10-2025
+896,The Legend of Zelda: A Link to the Past,NULL,232,snes,action,nintendo,1991,4.1,4.61,13000,911000,04-10-2025
+897,The Legend of Zelda: Majora's Mask,NULL,399,n64,action,nintendo,2000,4.4,3.36,13000,1800,04-10-2025
+898,The Legend of Zelda: Majora's Mask 3D,NULL,682,3ds,action,nintendo,2015,4.1,2.32,6700,813000,04-10-2025
+899,The Legend of Zelda: Ocarina of Time,NULL,95,n64,action,nintendo,1998,4.3,7.6,17000,1400,04-10-2025
+900,The Legend of Zelda: Ocarina of Time,NULL,95,n64,action,nintendo,1998,4.3,7.6,17000,1400,04-10-2025
+901,The Legend of Zelda: Ocarina of Time,NULL,95,n64,action,nintendo,1998,4.3,7.6,17000,1400,04-10-2025
+902,The Legend of Zelda: Oracle of Ages,NULL,896,gb,action,nintendo,2001,3.7,1.92,2800,492000,04-10-2025
+903,The Legend of Zelda: Oracle of Seasons,NULL,925,gb,adventure,nintendo,2001,3.7,1.86,3100,489000,04-10-2025
+904,The Legend of Zelda: The Minish Cap,NULL,1359,gba,action,nintendo,2004,3.9,1.42,8700,911000,04-10-2025
+905,The Legend of Zelda: Twilight Princess,NULL,101,wii,action,nintendo,2006,4,7.31,10000,1300,04-10-2025
+906,The Legend of Zelda: Twilight Princess,NULL,1162,gc,action,nintendo,2006,4,1.59,10000,1300,04-10-2025
+907,The Legend of Zelda: Twilight Princess,NULL,101,wii,action,nintendo,2006,4.1,7.31,6000,466000,04-10-2025
+908,The Legend of Zelda: Twilight Princess,NULL,1162,gc,action,nintendo,2006,4.1,1.59,6000,466000,04-10-2025
+909,The Legend of Zelda: Twilight Princess,NULL,101,wii,action,nintendo,2006,4.1,7.31,6000,466000,04-10-2025
+910,The Legend of Zelda: Twilight Princess,NULL,1162,gc,action,nintendo,2006,4.1,1.59,6000,466000,04-10-2025
+911,The Legend of Zelda: Twilight Princess HD,NULL,2214,wiiu,action,nintendo,2016,4.2,0.94,2500,503000,04-10-2025
+912,The LEGO Movie Videogame,NULL,4734,psv,action,warner bros. interactive entertainment,2014,2.8,0.41,1700,73000,04-10-2025
+913,The LEGO Movie Videogame,NULL,12266,pc,action,warner bros. interactive entertainment,2014,2.8,0.06,1700,73000,04-10-2025
+914,The LEGO Movie Videogame,NULL,1490,x360,action,warner bros. interactive entertainment,2014,2.8,1.32,1700,73000,04-10-2025
+915,The LEGO Movie Videogame,NULL,2053,ps3,action,warner bros. interactive entertainment,2014,2.8,1.01,1700,73000,04-10-2025
+916,The LEGO Movie Videogame,NULL,3056,wiiu,action,warner bros. interactive entertainment,2014,2.8,0.66,1700,73000,04-10-2025
+917,The LEGO Movie Videogame,NULL,3030,ps4,action,warner bros. interactive entertainment,2014,2.8,0.67,1700,73000,04-10-2025
+918,The LEGO Movie Videogame,NULL,2944,3ds,action,warner bros. interactive entertainment,2014,2.8,0.69,1700,73000,04-10-2025
+919,The LEGO Movie Videogame,NULL,3884,xone,action,warner bros. interactive entertainment,2014,2.8,0.51,1700,73000,04-10-2025
+920,The Lord of the Rings: The Two Towers,NULL,3810,gc,action,electronic arts,2002,3.3,0.53,1600,72000,04-10-2025
+921,The Lord of the Rings: The Two Towers,NULL,228,ps2,action,electronic arts,2002,3.3,4.67,1600,72000,04-10-2025
+922,The Lord of the Rings: The Two Towers,NULL,2782,gba,action,electronic arts,2002,3.3,0.74,1600,72000,04-10-2025
+923,The Lord of the Rings: The Two Towers,NULL,2859,xb,action,electronic arts,2002,3.3,0.71,1600,72000,04-10-2025
+924,The Simpsons Game,NULL,1874,psp,action,electronic arts,2007,3,1.09,3800,156000,04-10-2025
+925,The Simpsons Game,NULL,1989,x360,action,electronic arts,2007,3,1.05,3800,156000,04-10-2025
+926,The Simpsons Game,NULL,1251,ps2,action,electronic arts,2007,3,1.51,3800,156000,04-10-2025
+927,The Simpsons Game,NULL,2023,wii,action,electronic arts,2007,3,1.03,3800,156000,04-10-2025
+928,The Simpsons Game,NULL,1222,ds,action,electronic arts,2007,3,1.53,3800,156000,04-10-2025
+929,The Simpsons Game,NULL,2295,ps3,action,electronic arts,2007,3,0.91,3800,156000,04-10-2025
+930,The Simpsons: Road Rage,NULL,1980,xb,racing,electronic arts,2001,2.9,1.05,1700,61000,04-10-2025
+931,The Simpsons: Road Rage,NULL,355,ps2,racing,electronic arts,2001,2.9,3.61,1700,61000,04-10-2025
+932,The Simpsons: Road Rage,NULL,6845,gc,racing,electronic arts,2001,2.9,0.24,1700,61000,04-10-2025
+933,The Sims 4,NULL,479,pc,simulation,electronic arts,2014,3,2.97,8300,110000,04-10-2025
+934,The Sims 4,NULL,479,pc,simulation,electronic arts,2014,3,2.97,8300,110000,04-10-2025
+935,The Walking Dead: Season One,NULL,14286,pc,adventure,avanquest software,2012,4,0.03,12000,467000,04-10-2025
+936,The Walking Dead: Season One,NULL,2763,x360,adventure,avanquest software,2012,4,0.75,12000,467000,04-10-2025
+937,The Walking Dead: Season One,NULL,2600,ps3,adventure,avanquest software,2012,4,0.79,12000,467000,04-10-2025
+938,The Warriors,NULL,3812,ps2,action,take-two interactive,2005,3.9,0.53,927000,191000,04-10-2025
+939,The Warriors,NULL,6122,xb,action,take-two interactive,2005,3.9,0.28,927000,191000,04-10-2025
+940,The Witcher,NULL,12467,pc,role-playing,atari,2007,3,0.06,1600,168000,04-10-2025
+941,The Witcher 2: Assassins of Kings,NULL,2170,pc,action,namco bandai games,2011,3.6,0.96,1600,169000,04-10-2025
+942,The Witcher 3: Wild Hunt,NULL,1607,xone,role-playing,namco bandai games,2015,4.3,1.24,17000,1600,04-10-2025
+943,The Witcher 3: Wild Hunt,NULL,332,ps4,role-playing,namco bandai games,2015,4.3,3.73,17000,1600,04-10-2025
+944,The Witcher 3: Wild Hunt,NULL,3028,pc,role-playing,namco bandai games,2015,4.3,0.67,17000,1600,04-10-2025
+945,The Witcher 3: Wild Hunt,NULL,1607,xone,role-playing,namco bandai games,2015,4.3,1.24,17000,1600,04-10-2025
+946,The Witcher 3: Wild Hunt,NULL,332,ps4,role-playing,namco bandai games,2015,4.3,3.73,17000,1600,04-10-2025
+947,The Witcher 3: Wild Hunt,NULL,3028,pc,role-playing,namco bandai games,2015,4.3,0.67,17000,1600,04-10-2025
+948,The Witcher 3: Wild Hunt,NULL,1607,xone,role-playing,namco bandai games,2015,4.3,1.24,17000,1600,04-10-2025
+949,The Witcher 3: Wild Hunt,NULL,332,ps4,role-playing,namco bandai games,2015,4.3,3.73,17000,1600,04-10-2025
+950,The Witcher 3: Wild Hunt,NULL,3028,pc,role-playing,namco bandai games,2015,4.3,0.67,17000,1600,04-10-2025
+951,The World Ends with You,NULL,2416,ds,role-playing,square enix,2007,4.2,0.86,5200,1500,04-10-2025
+952,Tom Clancy's Splinter Cell: Pandora Tomorrow,NULL,1597,ps2,action,ubisoft,2004,3.4,1.25,1000,123000,04-10-2025
+953,Tom Clancy's Splinter Cell: Pandora Tomorrow,NULL,1286,xb,action,ubisoft,2004,3.4,1.48,1000,123000,04-10-2025
+954,Tom Clancy's Splinter Cell: Pandora Tomorrow,NULL,11418,gc,action,ubisoft,2004,3.4,0.08,1000,123000,04-10-2025
+955,Tom Clancy's Splinter Cell: Pandora Tomorrow,NULL,12345,gba,action,ubisoft,2004,3.4,0.06,1000,123000,04-10-2025
+956,Tom Clancy's The Division,NULL,352,ps4,shooter,ubisoft,2016,2.8,3.61,2900,78000,04-10-2025
+957,Tom Clancy's The Division,NULL,847,xone,shooter,ubisoft,2016,2.8,2.01,2900,78000,04-10-2025
+958,Tom Clancy's The Division,NULL,5106,pc,shooter,ubisoft,2016,2.8,0.37,2900,78000,04-10-2025
+959,Tomb Raider,NULL,230,ps,action,eidos interactive,1996,3.3,4.63,2700,263000,04-10-2025
+960,Tomb Raider,NULL,2024,pc,action,eidos interactive,1996,3.3,1.03,2700,263000,04-10-2025
+961,Tomodachi Life,NULL,189,3ds,simulation,nintendo,2013,3.7,5.15,3400,133000,04-10-2025
+962,Toy Story 2: Buzz Lightyear to the Rescue!,NULL,2237,n64,platform,activision,1999,3.4,0.93,2300,117000,04-10-2025
+963,Twisted Metal,NULL,1190,ps,action,sony computer entertainment,1995,3.1,1.56,986000,81000,04-10-2025
+964,Ultimate Spider-Man,NULL,5097,gc,action,activision,2005,3.6,0.37,3700,280000,04-10-2025
+965,Ultimate Spider-Man,NULL,8707,ds,action,activision,2005,3.6,0.16,3700,280000,04-10-2025
+966,Ultimate Spider-Man,NULL,5824,gba,action,activision,2005,3.6,0.3,3700,280000,04-10-2025
+967,Ultimate Spider-Man,NULL,4882,xb,action,activision,2005,3.6,0.39,3700,280000,04-10-2025
+968,Ultimate Spider-Man,NULL,2829,ps2,action,activision,2005,3.6,0.72,3700,280000,04-10-2025
+969,Uncharted 2: Among Thieves,NULL,120,ps3,action,sony computer entertainment,2009,3.9,6.73,12000,515000,04-10-2025
+970,Uncharted 3: Drake's Deception,NULL,116,ps3,action,sony computer entertainment,2011,3.6,6.83,11000,477000,04-10-2025
+971,Uncharted 3: Drake's Deception,NULL,116,ps3,action,sony computer entertainment,2011,3.6,6.83,11000,477000,04-10-2025
+972,Uncharted 4: A Thief's End,NULL,272,ps4,shooter,sony computer entertainment,2016,4.1,4.2,14000,1200,04-10-2025
+973,Uncharted 4: A Thief's End,NULL,272,ps4,shooter,sony computer entertainment,2016,4.1,4.2,14000,1200,04-10-2025
+974,Uncharted: Drake's Fortune,NULL,211,ps3,action,sony computer entertainment,2007,3.1,4.94,12000,460000,04-10-2025
+975,Uncharted: The Nathan Drake Collection,NULL,244,ps4,action,sony computer entertainment,2015,4.1,4.47,4300,319000,04-10-2025
+976,Until Dawn,NULL,1124,ps4,adventure,sony computer entertainment europe,2015,3.4,1.64,8000,585000,04-10-2025
+977,Vagrant Story,NULL,2404,ps,role-playing,crave entertainment,2000,4,0.87,1000,889000,04-10-2025
+978,Vagrant Story,NULL,2404,ps,role-playing,crave entertainment,2000,4,0.87,1000,889000,04-10-2025
+979,Warcraft III: The Frozen Throne,NULL,1214,pc,strategy,activision,2003,4.3,1.54,2600,73000,04-10-2025
+980,Wario Land 3,NULL,738,gb,platform,nintendo,2000,3.8,2.2,1200,174000,04-10-2025
+981,WarioWare: Smooth Moves,NULL,491,wii,puzzle,nintendo,2006,3.9,2.92,3100,189000,04-10-2025
+982,We Love Katamari,NULL,3840,ps2,puzzle,electronic arts,2005,4.3,0.52,1400,410000,04-10-2025
+983,Wii Sports,NULL,1,wii,sports,nintendo,2006,3.7,82.74,18000,93000,04-10-2025
+984,Wii Sports,NULL,1,wii,sports,nintendo,2006,3.7,82.74,18000,93000,04-10-2025
+985,Wii Sports,NULL,1,wii,sports,nintendo,2006,3.7,82.74,18000,93000,04-10-2025
+986,Wolfenstein: The New Order,NULL,4704,x360,shooter,bethesda softworks,2014,3.6,0.41,8400,722000,04-10-2025
+987,Wolfenstein: The New Order,NULL,4246,pc,shooter,bethesda softworks,2014,3.6,0.46,8400,722000,04-10-2025
+988,Wolfenstein: The New Order,NULL,3020,xone,shooter,bethesda softworks,2014,3.6,0.67,8400,722000,04-10-2025
+989,Wolfenstein: The New Order,NULL,1170,ps4,shooter,bethesda softworks,2014,3.6,1.58,8400,722000,04-10-2025
+990,Wolfenstein: The New Order,NULL,3945,ps3,shooter,bethesda softworks,2014,3.6,0.51,8400,722000,04-10-2025
+991,Wolfenstein: The New Order,NULL,4704,x360,shooter,bethesda softworks,2014,3.6,0.41,8400,722000,04-10-2025
+992,Wolfenstein: The New Order,NULL,4246,pc,shooter,bethesda softworks,2014,3.6,0.46,8400,722000,04-10-2025
+993,Wolfenstein: The New Order,NULL,3020,xone,shooter,bethesda softworks,2014,3.6,0.67,8400,722000,04-10-2025
+994,Wolfenstein: The New Order,NULL,1170,ps4,shooter,bethesda softworks,2014,3.6,1.58,8400,722000,04-10-2025
+995,Wolfenstein: The New Order,NULL,3945,ps3,shooter,bethesda softworks,2014,3.6,0.51,8400,722000,04-10-2025
+996,World of Warcraft,NULL,138,pc,role-playing,activision,2004,3.5,6.28,4500,74000,04-10-2025
+997,Worms Armageddon,NULL,1952,ps,strategy,microprose,1999,3.8,1.06,2100,57000,04-10-2025
+998,Worms Armageddon,NULL,13742,n64,strategy,infogrames,1999,3.8,0.04,2100,57000,04-10-2025
+999,Xenoblade Chronicles,NULL,2109,wii,role-playing,nintendo,2010,4.2,0.98,3900,732000,04-10-2025
+1000,Xenosaga Episode I: Der Wille zur Macht,NULL,1017,ps2,role-playing,namco bandai games,2002,3.7,1.74,1200,575000,04-10-2025
+1001,Xenosaga Episode III: Also sprach Zarathustra,NULL,5150,ps2,role-playing,namco bandai games,2006,4.3,0.37,762000,448000,04-10-2025
+1002,Yakuza 2,NULL,1875,ps2,adventure,sega,2006,4,1.09,1000,255000,04-10-2025
+1003,Yakuza Kiwami,NULL,9924,ps3,adventure,sega,2016,3.7,0.12,9700,1000,04-10-2025
+1004,Yakuza Kiwami,NULL,8659,ps4,adventure,sega,2016,3.7,0.16,9700,1000,04-10-2025
+1005,Yakuza Kiwami,NULL,9924,ps3,adventure,sega,2016,3.7,0.12,9700,1000,04-10-2025
+1006,Yakuza Kiwami,NULL,8659,ps4,adventure,sega,2016,3.7,0.16,9700,1000,04-10-2025
+1007,Yakuza Kiwami,NULL,9924,ps3,adventure,sega,2016,3.7,0.12,9700,1000,04-10-2025
+1008,Yakuza Kiwami,NULL,8659,ps4,adventure,sega,2016,3.7,0.16,9700,1000,04-10-2025
+1009,Ys VIII: Lacrimosa of Dana,NULL,11244,psv,role-playing,nihon falcom corporation,2016,4.2,0.09,1900,575000,04-10-2025
+1010,Zelda II: The Adventure of Link,NULL,252,nes,adventure,nintendo,1987,2.6,4.38,4500,290000,04-10-2025
+1011,Zero Escape: Zero Time Dilemma,NULL,12434,3ds,adventure,aksys games,2016,3,0.06,2900,402000,04-10-2025
+1012,Zero Escape: Zero Time Dilemma,NULL,12452,psv,adventure,aksys games,2016,3,0.06,2900,402000,04-10-2025
